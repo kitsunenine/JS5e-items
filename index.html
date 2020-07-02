@@ -72,7 +72,9 @@ loadJSON(function(response) {
 
 const missingElements = document.querySelector('.missingElements');
 const constructionSteps = document.querySelector('.constructionSteps');
+constructionSteps.setAttribute('style', 'white-space: pre;');
 const deconstructionSteps = document.querySelector('.deconstructionSteps');
+deconstructionSteps.setAttribute('style', 'white-space: pre;');
 
 class Transform {
   constructor(to) {
@@ -121,6 +123,13 @@ class Item {
     }
     return null;
   }
+}
+
+function resetBoxes() {
+  missingElements.textContent ='';
+  constructionSteps.textContent ='';
+  deconstructionSteps.textContent ='';
+  document.getElementById("outputItems").value = '';
 }
 
 function iremove(item,items) {
@@ -189,7 +198,7 @@ function compute(current_items,target_items) {
 }
 
 function buttonPress() {
-  missingElements.textContent ='';
+  resetBoxes();
 //Loading stage
   var current_items = document.getElementById("currentItems").value.toLowerCase().trim().split("\n");
   var c;
@@ -208,14 +217,10 @@ function buttonPress() {
 
 //Output stage
   var n;
-  deconstructionSteps.textContent ='';
-  deconstructionSteps.setAttribute('style', 'white-space: pre;');
   for (n in decomp) {
     deconstructionSteps.textContent += 'Dismantle: '+decomp[n].from+' into ';
     deconstructionSteps.textContent += decomp[n].to.join()+"\r\n";
   }
-  constructionSteps.textContent ='';
-  constructionSteps.setAttribute('style', 'white-space: pre;');
   for (n in comp) {
     constructionSteps.textContent += 'Construct: '+comp[n].to+' from ';
     constructionSteps.textContent += comp[n].from.join()+' using ';
