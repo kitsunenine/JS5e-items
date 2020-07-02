@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    <title>Inventory Processor</title>
+
+    <style>
+      html {
+        font-family: sans-serif;
+      }
+
+      body {
+        width: 50%;
+        max-width: 800px;
+        min-width: 480px;
+        margin: 0 auto;
+      }
+
+      .lastResult {
+        color: white;
+        padding: 3px;
+      }
+      textarea {
+        width: 100%;
+        height: 150px;
+        padding: 4px 4px;
+        box-sizing: border-box;
+        border: 2px solid #ccc;
+        border-radius: 4px;
+        background-color: #f8f8f8;
+        font-size: 12px;
+        resize: none;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1>Inventory Processor</h1>
+
+    <p>Some text.</p>
+
+    <label for="currentItems">Current Inventory</label><textarea id="currentItems" class="currentItems"></textarea>
+    <label for="desiredItems">Desired Items</label><textarea id="desiredItems" class="desiredItems"></textarea>
+
+    <input type="submit" value="Process" class="process">
+
+    <div class="results">
+      <p class="missingElements"></p>
+      <p class="deconstructionSteps"></p>
+      <p class="constructionSteps"></p>
+    </div>
+    <label for="outputItems">Overspill Items</label><textarea rows=30 cols=50 id="outputItems" class="outputItems"></textarea>
+
+    <script>
+function loadJSON(callback) {   
+    var xobj = new XMLHttpRequest();
+        xobj.overrideMimeType("application/json");
+    xobj.open("GET", "data.json", true);
+    xobj.onreadystatechange = function () {
+          if (xobj.readyState == 4 && xobj.status == "200") {
+            callback(xobj.responseText);
+          }
+    };
+    xobj.send(null);  
+}
+
+var data;
+loadJSON(function(response) {
+    data = JSON.parse(response);
+});
+
+const missingElements = document.querySelector('.missingElements');
+const constructionSteps = document.querySelector('.constructionSteps');
+const deconstructionSteps = document.querySelector('.deconstructionSteps');
+
+class Transform {
+  constructor(to) {
+    this.to = to;
+    this.from = data[to]["components"];
+    this.tool = data[to]["tool"];
+    this.breakdown = "breakdown";
+    }
+  invert() {
+    var tmp = this.to;
+    this.to = this.from;
+    this.from = tmp;
+    tmp = this.tool;
+    this.tool = this.breakdown;
+    this.breakdown = tmp;
+  }
+}
+
+class Item {
+  constructor(name) {
+    this.name = name;
+    this.components=[];
+    var c;
+    console.log(name);
+    for (c in data[name]["components"]) {
+      c = new Item(data[name]["components"][c]);
+      this.components.push(c);
+    }
+  }
+  isIn(other,transforms=[]) {
+    if ( other.name == this.name) {
+      return transforms;
+    } else {
+      var c;
+      var d;
+      var decomp = transforms.slice();
+      var tr = new Transform(this.name);
+      tr.invert();
+      decomp.push(tr);
+      for (c in this.components) {
+        d = this.components[c].isIn(other,decomp);
+        if (d !== null) {
+          return d;
+        }
+      }
+    }
+    return null;
+  }
+}
+
+function iremove(item,items) {
+  var n;
+  for (n in items) {
+    if (items[n].name == item.name) {
+      items.splice(n, 1);
+      break;
+    }
+  }
+}
+
+function find_item_in_items(item,items) {
+  var matches=[];
+  var n;
+  for (n in items) {
+    var tr = items[n].isIn(item);
+    if (tr !== null) {
+      matches.push(tr);
+    }
+  }
+  matches.sort();
+  if (matches.length == 0) {
+    return null;
+  }
+  for (n in matches[0]) {
+    var from = new Item(matches[0][n].from);
+    iremove(from,items);
+    var m;
+    for (m in from.components) {
+      items.splice(0,0,from.components[m]);
+    }
+  }
+  return matches[0];
+}
+
+function calculate() {
+//Loading stage
+  var current_items = document.getElementById("currentItems").value.trim().split("\n");
+  var c;
+  for (c in current_items) {
+    current_items[c] = new Item(current_items[c]);
+  }
+  var target_items = document.getElementById("desiredItems").value.trim().split("\n");
+  for (c in target_items) {
+    target_items[c] = new Item(target_items[c]);
+  }
+
+//Compute
+  var decomp = [];
+  var comp = [];
+  while (target_items.length > 0 ) {
+    var n;
+    for (n in target_items) {
+      var m = find_item_in_items(target_items[n],current_items);
+      if ( m !== null ) {
+        iremove(target_items[n],current_items);
+        target_items.splice(n,1);
+        var q;
+        for (q in m) {
+          decomp.push(m[q]);
+        }
+      } else {
+        if (target_items[n].components.length < 1) {
+          errorMessage();
+          target_items=[];
+          break;
+        }
+        var m;
+        for (m in target_items[n].components) {
+          target_items.push(target_items[n].components[m]);
+        }
+        comp.splice(0,0,new Transform(target_items[n].name));
+        target_items.splice(n,1);
+      }
+    }
+  }
+
+//Output stage
+  var n;
+  deconstructionSteps.textContent ='';
+  deconstructionSteps.setAttribute('style', 'white-space: pre;');
+  for (n in decomp) {
+    deconstructionSteps.textContent += 'Dismantle: '+decomp[n].from+' into ';
+    deconstructionSteps.textContent += decomp[n].to.join()+"\r\n";
+  }
+  constructionSteps.textContent ='';
+  constructionSteps.setAttribute('style', 'white-space: pre;');
+  for (n in comp) {
+    constructionSteps.textContent += 'Construct: '+comp[n].to+' from ';
+    constructionSteps.textContent += comp[n].from.join()+' using ';
+    constructionSteps.textContent += comp[n].tool+"\r\n";
+  }
+  var output = "";
+  var n;
+  for (n in current_items) {
+    output += current_items[n].name+"\n"
+  }
+  document.getElementById("outputItems").value = output;
+
+}
+
+function errorMessage() {
+  document.getElementById("outputItems").value = "";
+  console.log("I can't build this!");
+}
+
+const process = document.querySelector('.process');
+process.addEventListener('click', calculate);
+
+
+    </script>
+  </body>
+</html>
+
