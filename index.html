@@ -157,19 +157,7 @@ function find_item_in_items(item,items) {
   return matches[0];
 }
 
-function calculate() {
-//Loading stage
-  var current_items = document.getElementById("currentItems").value.toLowerCase().trim().split("\n");
-  var c;
-  for (c in current_items) {
-    current_items[c] = new Item(current_items[c].trim());
-  }
-  var target_items = document.getElementById("desiredItems").value.toLowerCase().trim().split("\n");
-  for (c in target_items) {
-    target_items[c] = new Item(target_items[c].trim());
-  }
-
-//Compute
+function compute(current_items,target_items) {
   var decomp = [];
   var comp = [];
   while (target_items.length > 0 ) {
@@ -185,9 +173,8 @@ function calculate() {
         }
       } else {
         if (target_items[n].components.length < 1) {
-          errorMessage();
-          target_items=[];
-          break;
+          errorMessage(target_items[n]);
+          return [[],[]];
         }
         var m;
         for (m in target_items[n].components) {
@@ -198,6 +185,26 @@ function calculate() {
       }
     }
   }
+  return [comp, decomp];
+}
+
+function buttonPress() {
+  missingElements.textContent ='';
+//Loading stage
+  var current_items = document.getElementById("currentItems").value.toLowerCase().trim().split("\n");
+  var c;
+  for (c in current_items) {
+    current_items[c] = new Item(current_items[c].trim());
+  }
+  var target_items = document.getElementById("desiredItems").value.toLowerCase().trim().split("\n");
+  for (c in target_items) {
+    target_items[c] = new Item(target_items[c].trim());
+  }
+
+//Compute
+  var comp_ret = compute(current_items,target_items);
+  var comp = comp_ret[0];
+  var decomp = comp_ret[1];
 
 //Output stage
   var n;
@@ -223,16 +230,19 @@ function calculate() {
 
 }
 
-function errorMessage() {
+function errorMessage(missing_item='') {
   document.getElementById("outputItems").value = "";
+  missingElements.textContent = "Not constructable!";
+  if (missing_item) {
+    missingElements.textContent += " Missing: "+missing_item.name;
+  }
   console.log("I can't build this!");
 }
 
 const process = document.querySelector('.process');
-process.addEventListener('click', calculate);
+process.addEventListener('click', buttonPress);
 
 
     </script>
   </body>
 </html>
-
