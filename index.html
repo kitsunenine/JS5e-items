@@ -38,7 +38,7 @@
   <body>
     <h1>Inventory Processor</h1>
 
-    <p>Some text.</p>
+    <p>One line per item. Now case insensitive! Will remove the desired items from the output if there's any processing to do at all.</p>
 
     <label for="currentItems">Current Inventory</label><textarea id="currentItems" class="currentItems"></textarea>
     <label for="desiredItems">Desired Items</label><textarea id="desiredItems" class="desiredItems"></textarea>
@@ -159,14 +159,14 @@ function find_item_in_items(item,items) {
 
 function calculate() {
 //Loading stage
-  var current_items = document.getElementById("currentItems").value.trim().split("\n");
+  var current_items = document.getElementById("currentItems").value.toLowerCase().trim().split("\n");
   var c;
   for (c in current_items) {
-    current_items[c] = new Item(current_items[c]);
+    current_items[c] = new Item(current_items[c].trim());
   }
-  var target_items = document.getElementById("desiredItems").value.trim().split("\n");
+  var target_items = document.getElementById("desiredItems").value.toLowerCase().trim().split("\n");
   for (c in target_items) {
-    target_items[c] = new Item(target_items[c]);
+    target_items[c] = new Item(target_items[c].trim());
   }
 
 //Compute

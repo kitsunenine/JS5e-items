@@ -1,3335 +1,3335 @@
 {
   "2-cell pack":{
     "components":[
-      "Lithium-ion battery",
-      "Lithium-ion battery",
-      "Polymer plate"
+      "lithium-ion battery",
+      "lithium-ion battery",
+      "polymer plate"
     ],
     "count":"1",
     "name":"2-cell pack",
-    "tool":"Microprinter",
+    "tool":"microprinter",
     "weight":""
   },
   "4-cell pack":{
     "components":[
-      "Lithium-ion battery",
-      "Lithium-ion battery",
-      "Lithium-ion battery",
-      "Lithium-ion battery",
-      "Polymer plate"
+      "lithium-ion battery",
+      "lithium-ion battery",
+      "lithium-ion battery",
+      "lithium-ion battery",
+      "polymer plate"
     ],
     "count":"1",
     "name":"4-cell pack",
-    "tool":"Microprinter",
+    "tool":"microprinter",
     "weight":""
   },
   "6-cell pack":{
     "components":[
-      "Lithium-ion battery",
-      "Lithium-ion battery",
+      "lithium-ion battery",
+      "lithium-ion battery",
       "2-cell pack",
       "2-cell pack",
-      "Polymer plate"
+      "polymer plate"
     ],
     "count":"1",
     "name":"6-cell pack",
-    "tool":"Microprinter",
+    "tool":"microprinter",
     "weight":""
   },
-  "Advanced sensor assembly":{
+  "advanced sensor assembly":{
     "components":[
-      "Laser diode",
-      "Laser diode",
-      "Geiger-Muller tube",
-      "CPU"
+      "laser diode",
+      "laser diode",
+      "geiger-muller tube",
+      "cpu"
     ],
     "count":"1",
-    "name":"Advanced sensor assembly",
-    "tool":"Electronics kit",
+    "name":"advanced sensor assembly",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Aluminium":{
+  "aluminium":{
     "components":[],
     "count":"1",
-    "name":"Aluminium",
-    "tool":"N/A",
+    "name":"aluminium",
+    "tool":"n/a",
     "weight":"1"
   },
-  "Aluminium barrel":{
+  "aluminium barrel":{
     "components":[
-      "Aluminium tube"
+      "aluminium tube"
     ],
     "count":"",
-    "name":"Aluminium barrel",
-    "tool":"Lathe",
+    "name":"aluminium barrel",
+    "tool":"lathe",
     "weight":""
   },
-  "Aluminium pistol frame":{
+  "aluminium pistol frame":{
     "components":[
-      "Aluminium plate",
-      "Aluminium plate"
+      "aluminium plate",
+      "aluminium plate"
     ],
     "count":"",
-    "name":"Aluminium pistol frame",
-    "tool":"Microprinting kit",
+    "name":"aluminium pistol frame",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "Aluminium plate":{
+  "aluminium plate":{
     "components":[
-      "Aluminium"
+      "aluminium"
     ],
     "count":"1",
-    "name":"Aluminium plate",
-    "tool":"Rolling machine",
+    "name":"aluminium plate",
+    "tool":"rolling machine",
     "weight":"1"
   },
-  "Aluminium revolver frame":{
+  "aluminium revolver frame":{
     "components":[
-      "Aluminium plate",
-      "Steel spring"
+      "aluminium plate",
+      "steel spring"
     ],
     "count":"",
-    "name":"Aluminium revolver frame",
-    "tool":"Microprinting kit",
+    "name":"aluminium revolver frame",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "Aluminium rod":{
+  "aluminium rod":{
     "components":[
-      "Aluminium"
+      "aluminium"
     ],
     "count":"1",
-    "name":"Aluminium rod",
-    "tool":"Lathe",
+    "name":"aluminium rod",
+    "tool":"lathe",
     "weight":"1"
   },
-  "Aluminium slide":{
+  "aluminium slide":{
     "components":[
-      "Aluminium plate"
+      "aluminium plate"
     ],
     "count":"",
-    "name":"Aluminium slide",
-    "tool":"Microprinting kit",
+    "name":"aluminium slide",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "Aluminium tube":{
+  "aluminium tube":{
     "components":[
-      "Aluminium"
+      "aluminium"
     ],
     "count":"1",
-    "name":"Aluminium tube",
-    "tool":"Lathe",
+    "name":"aluminium tube",
+    "tool":"lathe",
     "weight":"1"
   },
-  "Antenna":{
+  "antenna":{
     "components":[
-      "Steel tube",
-      "Steel tube",
-      "Steel tube"
+      "steel tube",
+      "steel tube",
+      "steel tube"
     ],
     "count":"1",
-    "name":"Antenna",
-    "tool":"Electronics kit",
+    "name":"antenna",
+    "tool":"electronics kit",
     "weight":"0.5"
   },
-  "Aramid":{
+  "aramid":{
     "components":[],
     "count":"1",
-    "name":"Aramid",
-    "tool":"N/A",
+    "name":"aramid",
+    "tool":"n/a",
     "weight":"1"
   },
-  "Aramid gel":{
+  "aramid gel":{
     "components":[
-      "Aramid",
-      "Silicone",
-      "Polymer"
+      "aramid",
+      "silicone",
+      "polymer"
     ],
     "count":"1",
-    "name":"Aramid gel",
-    "tool":"Rolling machine",
+    "name":"aramid gel",
+    "tool":"rolling machine",
     "weight":""
   },
-  "Aramid plate":{
+  "aramid plate":{
     "components":[
-      "Aramid",
-      "Polymer",
-      "Steel"
+      "aramid",
+      "polymer",
+      "steel"
     ],
     "count":"1",
-    "name":"Aramid plate",
-    "tool":"Rolling machine",
+    "name":"aramid plate",
+    "tool":"rolling machine",
     "weight":""
   },
-  "Armor plate, AM-1":{
+  "armor plate, am-1":{
     "components":[
-      "Aramid gel"
+      "aramid gel"
     ],
     "count":"1",
-    "name":"Armor plate, AM-1",
-    "tool":"Rolling machine",
+    "name":"armor plate, am-1",
+    "tool":"rolling machine",
     "weight":""
   },
-  "Armor plate, AM-3":{
+  "armor plate, am-3":{
     "components":[
-      "Aramid plate",
-      "Aramid gel"
+      "aramid plate",
+      "aramid gel"
     ],
     "count":"1",
-    "name":"Armor plate, AM-3",
-    "tool":"Rolling machine",
+    "name":"armor plate, am-3",
+    "tool":"rolling machine",
     "weight":""
   },
-  "Armor plate, AM-5":{
+  "armor plate, am-5":{
     "components":[
-      "Aramid plate",
-      "Aramid plate",
-      "Aramid gel"
+      "aramid plate",
+      "aramid plate",
+      "aramid gel"
     ],
     "count":"1",
-    "name":"Armor plate, AM-5",
-    "tool":"Rolling machine",
+    "name":"armor plate, am-5",
+    "tool":"rolling machine",
     "weight":""
   },
-  "Armor plate, AM-7":{
+  "armor plate, am-7":{
     "components":[
-      "Aramid plate",
-      "Aramid plate",
-      "Aramid gel",
-      "Aramid gel"
+      "aramid plate",
+      "aramid plate",
+      "aramid gel",
+      "aramid gel"
     ],
     "count":"1",
-    "name":"Armor plate, AM-7",
-    "tool":"Rolling machine",
+    "name":"armor plate, am-7",
+    "tool":"rolling machine",
     "weight":""
   },
-  "Arrows":{
+  "arrows":{
     "components":[
-      "Nanocarbon",
-      "Polymer",
-      "Steel"
+      "nanocarbon",
+      "polymer",
+      "steel"
     ],
     "count":"20",
-    "name":"Arrows",
-    "tool":"Bowyer's tools",
+    "name":"arrows",
+    "tool":"bowyer's tools",
     "weight":"4"
   },
-  "Autoinjector system":{
+  "autoinjector system":{
     "components":[
-      "Syringe",
-      "Syringe",
-      "LCD screen",
-      "Injector electronics"
+      "syringe",
+      "syringe",
+      "lcd screen",
+      "injector electronics"
     ],
     "count":"1",
-    "name":"Autoinjector system",
-    "tool":"Electronics kit",
+    "name":"autoinjector system",
+    "tool":"electronics kit",
     "weight":"2"
   },
-  "BMG ammo":{
+  "bmg ammo":{
     "components":[
-      "Gunpowder, improved",
-      "BMG casing",
-      "Copper",
-      "Tungsten",
-      "Titanium"
+      "gunpowder, improved",
+      "bmg casing",
+      "copper",
+      "tungsten",
+      "titanium"
     ],
     "count":"20",
-    "name":"BMG ammo",
-    "tool":"Reloading set",
+    "name":"bmg ammo",
+    "tool":"reloading set",
     "weight":""
   },
-  "BMG casing":{
+  "bmg casing":{
     "components":[
-      "Steel",
-      "Titanium"
+      "steel",
+      "titanium"
     ],
     "count":"1",
-    "name":"BMG casing",
-    "tool":"Microprinting kit",
+    "name":"bmg casing",
+    "tool":"microprinting kit",
     "weight":"0.5"
   },
-  "BMG magazine":{
+  "bmg magazine":{
     "components":[
-      "Titanium plate",
-      "Titanium plate",
-      "Steel spring"
+      "titanium plate",
+      "titanium plate",
+      "steel spring"
     ],
     "count":"",
-    "name":"BMG magazine",
-    "tool":"Microprinting kit",
+    "name":"bmg magazine",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "BMG receiver":{
+  "bmg receiver":{
     "components":[
-      "Tungsten plate",
-      "Tungsten plate",
-      "Tungsten rod",
-      "Tungsten rod"
+      "tungsten plate",
+      "tungsten plate",
+      "tungsten rod",
+      "tungsten rod"
     ],
     "count":"",
-    "name":"BMG receiver",
-    "tool":"Microprinting kit",
+    "name":"bmg receiver",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "Backpack, large":{
+  "backpack, large":{
     "components":[
-      "Fabric",
-      "Fabric",
-      "Fabric"
+      "fabric",
+      "fabric",
+      "fabric"
     ],
     "count":"1",
-    "name":"Backpack, large",
-    "tool":"Tailor's tools",
+    "name":"backpack, large",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Backpack, small":{
+  "backpack, small":{
     "components":[
-      "Fabric",
-      "Fabric"
+      "fabric",
+      "fabric"
     ],
     "count":"1",
-    "name":"Backpack, small",
-    "tool":"Tailor's tools",
+    "name":"backpack, small",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Bandages":{
+  "bandages":{
     "components":[
-      "Fabric",
-      "Disinfectant"
+      "fabric",
+      "disinfectant"
     ],
     "count":"2",
-    "name":"Bandages",
-    "tool":"Tailor's kit",
+    "name":"bandages",
+    "tool":"tailor's kit",
     "weight":"1"
   },
-  "Bandanna":{
+  "bandanna":{
     "components":[
-      "Fabric"
+      "fabric"
     ],
     "count":"1",
-    "name":"Bandanna",
-    "tool":"Tailor's tools",
+    "name":"bandanna",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Bandolier":{
+  "bandolier":{
     "components":[
-      "Fabric",
-      "Leather",
-      "Leather"
+      "fabric",
+      "leather",
+      "leather"
     ],
     "count":"1",
-    "name":"Bandolier",
-    "tool":"Tailor's tools",
+    "name":"bandolier",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Battery, radioisotope":{
+  "battery, radioisotope":{
     "components":[
-      "Uranium",
-      "Polymer plate",
-      "Steel tube"
+      "uranium",
+      "polymer plate",
+      "steel tube"
     ],
     "count":"1",
-    "name":"Battery, radioisotope",
-    "tool":"Circuitry machine",
+    "name":"battery, radioisotope",
+    "tool":"circuitry machine",
     "weight":""
   },
-  "Bedroll, large":{
+  "bedroll, large":{
     "components":[
-      "Fabric",
-      "Fabric",
-      "Fabric",
-      "Insulation",
-      "Insulation"
+      "fabric",
+      "fabric",
+      "fabric",
+      "insulation",
+      "insulation"
     ],
     "count":"1",
-    "name":"Bedroll, large",
-    "tool":"Tailor's tools",
+    "name":"bedroll, large",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Bedroll, medium":{
+  "bedroll, medium":{
     "components":[
-      "Fabric",
-      "Fabric",
-      "Insulation"
+      "fabric",
+      "fabric",
+      "insulation"
     ],
     "count":"1",
-    "name":"Bedroll, medium",
-    "tool":"Tailor's tools",
+    "name":"bedroll, medium",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Bedroll, small":{
+  "bedroll, small":{
     "components":[
-      "Fabric",
-      "Insulation"
+      "fabric",
+      "insulation"
     ],
     "count":"1",
-    "name":"Bedroll, small",
-    "tool":"Tailor's tools",
+    "name":"bedroll, small",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Bolts":{
+  "bolts":{
     "components":[
-      "Nanocarbon",
-      "Aluminium",
-      "Steel"
+      "nanocarbon",
+      "aluminium",
+      "steel"
     ],
     "count":"20",
-    "name":"Bolts",
-    "tool":"Bowyer's tools",
+    "name":"bolts",
+    "tool":"bowyer's tools",
     "weight":"5"
   },
-  "Boomstick":{
+  "boomstick":{
     "components":[
-      "Pressure pad",
-      "Explosive charge",
-      "Explosive charge",
-      "Steel rod"
+      "pressure pad",
+      "explosive charge",
+      "explosive charge",
+      "steel rod"
     ],
     "count":"",
-    "name":"Boomstick",
-    "tool":"Gunsmith's tools",
+    "name":"boomstick",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Bow, compound":{
+  "bow, compound":{
     "components":[
-      "Steel rod",
-      "Motor",
-      "Wire",
-      "Wire"
+      "steel rod",
+      "motor",
+      "wire",
+      "wire"
     ],
     "count":"",
-    "name":"Bow, compound",
-    "tool":"Bowyer's tools",
+    "name":"bow, compound",
+    "tool":"bowyer's tools",
     "weight":""
   },
-  "Bug detector":{
+  "bug detector":{
     "components":[
-      "Antenna",
-      "Radio chip",
-      "Control chip",
-      "Lithium-ion battery"
+      "antenna",
+      "radio chip",
+      "control chip",
+      "lithium-ion battery"
     ],
     "count":"1",
-    "name":"Bug detector",
-    "tool":"Electronics kit",
+    "name":"bug detector",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Button cell battery":{
+  "button cell battery":{
     "components":[
-      "Lithium",
-      "Polymer plate"
+      "lithium",
+      "polymer plate"
     ],
     "count":"1",
-    "name":"Button cell battery",
-    "tool":"Circuitry machine",
+    "name":"button cell battery",
+    "tool":"circuitry machine",
     "weight":""
   },
-  "CPU":{
+  "cpu":{
     "components":[
-      "Silicon",
-      "Silicon",
-      "Silicon",
-      "Silicon",
-      "Gold"
+      "silicon",
+      "silicon",
+      "silicon",
+      "silicon",
+      "gold"
     ],
     "count":"1",
-    "name":"CPU",
-    "tool":"Circuitry machine",
+    "name":"cpu",
+    "tool":"circuitry machine",
     "weight":""
   },
-  "Calculator, planetary":{
+  "calculator, planetary":{
     "components":[
-      "RAM stick",
-      "RAM stick",
-      "CPU",
-      "CPU",
+      "ram stick",
+      "ram stick",
+      "cpu",
+      "cpu",
       "6-cell pack"
     ],
     "count":"1",
-    "name":"Calculator, planetary",
-    "tool":"Electronics kit",
+    "name":"calculator, planetary",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Camera assembly":{
+  "camera assembly":{
     "components":[
-      "Optics chip",
-      "PCB",
-      "Control chip"
+      "optics chip",
+      "pcb",
+      "control chip"
     ],
     "count":"1",
-    "name":"Camera assembly",
-    "tool":"Electronics kit",
+    "name":"camera assembly",
+    "tool":"electronics kit",
     "weight":"1"
   },
-  "Camera, digital":{
+  "camera, digital":{
     "components":[
-      "Camera assembly",
-      "RAM stick",
-      "Control chip",
-      "Lithium-ion battery"
+      "camera assembly",
+      "ram stick",
+      "control chip",
+      "lithium-ion battery"
     ],
     "count":"1",
-    "name":"Camera, digital",
-    "tool":"Electronics kit",
+    "name":"camera, digital",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Camera, snake":{
+  "camera, snake":{
     "components":[
-      "Camera, spy",
-      "Steel tube",
-      "Servo",
-      "Servo"
+      "camera, spy",
+      "steel tube",
+      "servo",
+      "servo"
     ],
     "count":"1",
-    "name":"Camera, snake",
-    "tool":"Electronics kit",
+    "name":"camera, snake",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Camera, spy":{
+  "camera, spy":{
     "components":[
-      "Camera assembly",
-      "Control chip",
-      "Antenna",
-      "Radio chip",
-      "Lithium-ion battery"
+      "camera assembly",
+      "control chip",
+      "antenna",
+      "radio chip",
+      "lithium-ion battery"
     ],
     "count":"1",
-    "name":"Camera, spy",
-    "tool":"Electronics kit",
+    "name":"camera, spy",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Clothes, business":{
+  "clothes, business":{
     "components":[
-      "Fabric",
-      "Fabric",
-      "Fabric"
+      "fabric",
+      "fabric",
+      "fabric"
     ],
     "count":"1",
-    "name":"Clothes, business",
-    "tool":"Tailor's tools",
+    "name":"clothes, business",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Clothes, civilian":{
+  "clothes, civilian":{
     "components":[
-      "Fabric",
-      "Fabric"
+      "fabric",
+      "fabric"
     ],
     "count":"1",
-    "name":"Clothes, civilian",
-    "tool":"Tailor's tools",
+    "name":"clothes, civilian",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Clothes, cold weather":{
+  "clothes, cold weather":{
     "components":[
-      "Fabric",
-      "Fabric",
-      "Insulation"
+      "fabric",
+      "fabric",
+      "insulation"
     ],
     "count":"1",
-    "name":"Clothes, cold weather",
-    "tool":"Tailor's tools",
+    "name":"clothes, cold weather",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Clothes, costume, basic":{
+  "clothes, costume, basic":{
     "components":[
-      "Fabric",
-      "Fabric"
+      "fabric",
+      "fabric"
     ],
     "count":"1",
-    "name":"Clothes, costume, basic",
-    "tool":"Tailor's tools",
+    "name":"clothes, costume, basic",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Clothes, costume, flashy":{
+  "clothes, costume, flashy":{
     "components":[
-      "Fabric",
-      "Fabric",
-      "Fabric"
+      "fabric",
+      "fabric",
+      "fabric"
     ],
     "count":"1",
-    "name":"Clothes, costume, flashy",
-    "tool":"Tailor's tools",
+    "name":"clothes, costume, flashy",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Clothes, hot weather":{
+  "clothes, hot weather":{
     "components":[
-      "Fabric",
-      "Fabric"
+      "fabric",
+      "fabric"
     ],
     "count":"1",
-    "name":"Clothes, hot weather",
-    "tool":"Tailor's tools",
+    "name":"clothes, hot weather",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Clothes, military, officer's":{
+  "clothes, military, officer's":{
     "components":[
-      "Fabric",
-      "Fabric",
-      "Steel plate"
+      "fabric",
+      "fabric",
+      "steel plate"
     ],
     "count":"1",
-    "name":"Clothes, military, officer's",
-    "tool":"Tailor's tools",
+    "name":"clothes, military, officer's",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Clothes, military, pilot's":{
+  "clothes, military, pilot's":{
     "components":[
-      "Fabric",
-      "Fabric",
-      "Steel plate"
+      "fabric",
+      "fabric",
+      "steel plate"
     ],
     "count":"1",
-    "name":"Clothes, military, pilot's",
-    "tool":"Tailor's tools",
+    "name":"clothes, military, pilot's",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Clothes, military, soldier's":{
+  "clothes, military, soldier's":{
     "components":[
-      "Fabric",
-      "Fabric",
-      "Steel plate"
+      "fabric",
+      "fabric",
+      "steel plate"
     ],
     "count":"1",
-    "name":"Clothes, military, soldier's",
-    "tool":"Tailor's tools",
+    "name":"clothes, military, soldier's",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Clothes, religious vestments":{
+  "clothes, religious vestments":{
     "components":[
-      "Fabric",
-      "Fabric",
-      "Fabric"
+      "fabric",
+      "fabric",
+      "fabric"
     ],
     "count":"1",
-    "name":"Clothes, religious vestments",
-    "tool":"Tailor's tools",
+    "name":"clothes, religious vestments",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Clothes, royal":{
+  "clothes, royal":{
     "components":[
-      "Fabric",
-      "Fabric",
-      "Gold"
+      "fabric",
+      "fabric",
+      "gold"
     ],
     "count":"1",
-    "name":"Clothes, royal",
-    "tool":"Tailor's tools",
+    "name":"clothes, royal",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Clothes, traveler's":{
+  "clothes, traveler's":{
     "components":[
-      "Fabric",
-      "Fabric"
+      "fabric",
+      "fabric"
     ],
     "count":"1",
-    "name":"Clothes, traveler's",
-    "tool":"Tailor's tools",
+    "name":"clothes, traveler's",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Combat armor":{
+  "combat armor":{
     "components":[
-      "Plate carrier, empty",
-      "Steel plate",
-      "Steel plate"
+      "plate carrier, empty",
+      "steel plate",
+      "steel plate"
     ],
     "count":"1",
-    "name":"Combat armor",
-    "tool":"Tailor's tools",
+    "name":"combat armor",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Connection hub":{
+  "connection hub":{
     "components":[
-      "Wire",
-      "Wire",
-      "Wire",
-      "Wire",
-      "Lithium-ion battery"
+      "wire",
+      "wire",
+      "wire",
+      "wire",
+      "lithium-ion battery"
     ],
     "count":"1",
-    "name":"Connection hub",
-    "tool":"Electronics kit",
+    "name":"connection hub",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Control chip":{
+  "control chip":{
     "components":[
-      "Steel plate",
-      "Polymer plate",
-      "Silicon"
+      "steel plate",
+      "polymer plate",
+      "silicon"
     ],
     "count":"5",
-    "name":"Control chip",
-    "tool":"Circuitry machine",
+    "name":"control chip",
+    "tool":"circuitry machine",
     "weight":""
   },
-  "Copper":{
+  "copper":{
     "components":[],
     "count":"1",
-    "name":"Copper",
-    "tool":"N/A",
+    "name":"copper",
+    "tool":"n/a",
     "weight":"1"
   },
-  "Copper ball bearings":{
+  "copper ball bearings":{
     "components":[
-      "Copper rod"
+      "copper rod"
     ],
     "count":"20",
-    "name":"Copper ball bearings",
-    "tool":"Lathe",
+    "name":"copper ball bearings",
+    "tool":"lathe",
     "weight":"1"
   },
-  "Copper plate":{
+  "copper plate":{
     "components":[
-      "Copper"
+      "copper"
     ],
     "count":"1",
-    "name":"Copper plate",
-    "tool":"Rolling machine",
+    "name":"copper plate",
+    "tool":"rolling machine",
     "weight":""
   },
-  "Copper rod":{
+  "copper rod":{
     "components":[
-      "Copper"
+      "copper"
     ],
     "count":"1",
-    "name":"Copper rod",
-    "tool":"Lathe",
+    "name":"copper rod",
+    "tool":"lathe",
     "weight":"1"
   },
-  "Crossbow, double":{
+  "crossbow, double":{
     "components":[
-      "Crossbow, tactical",
-      "Bow, compound",
-      "Launcher trigger pack"
+      "crossbow, tactical",
+      "bow, compound",
+      "launcher trigger pack"
     ],
     "count":"",
-    "name":"Crossbow, double",
-    "tool":"Bowyer's tools",
+    "name":"crossbow, double",
+    "tool":"bowyer's tools",
     "weight":""
   },
-  "Crossbow, tactical":{
+  "crossbow, tactical":{
     "components":[
-      "Bow, compound",
-      "Steel plate",
-      "Steel rod",
-      "Launcher trigger pack"
+      "bow, compound",
+      "steel plate",
+      "steel rod",
+      "launcher trigger pack"
     ],
     "count":"",
-    "name":"Crossbow, tactical",
-    "tool":"Bowyer's tools",
+    "name":"crossbow, tactical",
+    "tool":"bowyer's tools",
     "weight":""
   },
-  "Disinfectant":{
+  "disinfectant":{
     "components":[
-      "Ethanol",
-      "Water"
+      "ethanol",
+      "water"
     ],
     "count":"2",
-    "name":"Disinfectant",
-    "tool":"Chemist's supplies",
+    "name":"disinfectant",
+    "tool":"chemist's supplies",
     "weight":"6"
   },
-  "Distance sensor assembly":{
+  "distance sensor assembly":{
     "components":[
-      "Laser diode",
-      "GPS radio assembly",
-      "CPU",
-      "RAM stick"
+      "laser diode",
+      "gps radio assembly",
+      "cpu",
+      "ram stick"
     ],
     "count":"1",
-    "name":"Distance sensor assembly",
-    "tool":"Electronics kit",
+    "name":"distance sensor assembly",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Dronebug, hacker":{
+  "dronebug, hacker":{
     "components":[
-      "Dronebug, spy",
-      "CPU"
+      "dronebug, spy",
+      "cpu"
     ],
     "count":"1",
-    "name":"Dronebug, hacker",
-    "tool":"Electronics kit",
+    "name":"dronebug, hacker",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Dronebug, spy":{
+  "dronebug, spy":{
     "components":[
-      "Flight assembly, small",
-      "Camera, spy",
-      "Lithium-ion battery",
-      "Antenna",
-      "CPU"
+      "flight assembly, small",
+      "camera, spy",
+      "lithium-ion battery",
+      "antenna",
+      "cpu"
     ],
     "count":"1",
-    "name":"Dronebug, spy",
-    "tool":"Electronics kit",
+    "name":"dronebug, spy",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Duffel bag":{
+  "duffel bag":{
     "components":[
-      "Fabric",
-      "Fabric"
+      "fabric",
+      "fabric"
     ],
     "count":"1",
-    "name":"Duffel bag",
-    "tool":"Tailor's tools",
+    "name":"duffel bag",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Electrolysis unit":{
+  "electrolysis unit":{
     "components":[
-      "Button cell battery",
-      "Wire"
+      "button cell battery",
+      "wire"
     ],
     "count":"1",
-    "name":"Electrolysis unit",
-    "tool":"Electronics kit",
+    "name":"electrolysis unit",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Electronic firing pin":{
+  "electronic firing pin":{
     "components":[
-      "Control chip",
-      "Firearm striker",
-      "Antenna"
+      "control chip",
+      "firearm striker",
+      "antenna"
     ],
     "count":"",
-    "name":"Electronic firing pin",
-    "tool":"Electronics kit",
+    "name":"electronic firing pin",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Electronic lock":{
+  "electronic lock":{
     "components":[
-      "Control chip",
-      "Button cell battery",
-      "Steel",
-      "Polymer plate"
+      "control chip",
+      "button cell battery",
+      "steel",
+      "polymer plate"
     ],
     "count":"1",
-    "name":"Electronic lock",
-    "tool":"Electronics kit",
+    "name":"electronic lock",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Empty dart":{
+  "empty dart":{
     "components":[
-      "Syringe",
-      "Polymer"
+      "syringe",
+      "polymer"
     ],
     "count":"1",
-    "name":"Empty dart",
-    "tool":"Microprinting kit",
+    "name":"empty dart",
+    "tool":"microprinting kit",
     "weight":"1"
   },
-  "Ethanol":{
+  "ethanol":{
     "components":[
-      "Hydrocarbon",
-      "Hydrocarbon",
-      "Water"
+      "hydrocarbon",
+      "hydrocarbon",
+      "water"
     ],
     "count":"1",
-    "name":"Ethanol",
-    "tool":"Brewer's supplies",
+    "name":"ethanol",
+    "tool":"brewer's supplies",
     "weight":"3"
   },
-  "Exosuit armor":{
+  "exosuit armor":{
     "components":[
-      "Titanium rod",
-      "Titanium rod",
-      "Aramid plate",
-      "Aramid plate"
+      "titanium rod",
+      "titanium rod",
+      "aramid plate",
+      "aramid plate"
     ],
     "count":"1",
-    "name":"Exosuit armor",
-    "tool":"Welder's tools",
+    "name":"exosuit armor",
+    "tool":"welder's tools",
     "weight":""
   },
-  "Exosuit computer":{
+  "exosuit computer":{
     "components":[
-      "Steel tank",
-      "LCD screen",
-      "Exosuit electronics",
-      "Exosuit electronics"
+      "steel tank",
+      "lcd screen",
+      "exosuit electronics",
+      "exosuit electronics"
     ],
     "count":"1",
-    "name":"Exosuit computer",
-    "tool":"Electronics kit",
+    "name":"exosuit computer",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Exosuit core":{
+  "exosuit core":{
     "components":[
-      "Titanium tank",
-      "Control chip",
-      "LCD screen",
+      "titanium tank",
+      "control chip",
+      "lcd screen",
       "6-cell pack"
     ],
     "count":"1",
-    "name":"Exosuit core",
-    "tool":"Welder's tools",
+    "name":"exosuit core",
+    "tool":"welder's tools",
     "weight":""
   },
-  "Exosuit electronics":{
+  "exosuit electronics":{
     "components":[
-      "Camera, digital",
-      "Connection hub",
-      "Control chip",
-      "CPU"
+      "camera, digital",
+      "connection hub",
+      "control chip",
+      "cpu"
     ],
     "count":"1",
-    "name":"Exosuit electronics",
-    "tool":"Electronics kit",
+    "name":"exosuit electronics",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Exosuit head":{
+  "exosuit head":{
     "components":[
-      "Titanium plate",
-      "Titanium plate",
-      "Voidglass plate",
-      "Face mask, oxygen",
-      "Servo"
+      "titanium plate",
+      "titanium plate",
+      "voidglass plate",
+      "face mask, oxygen",
+      "servo"
     ],
     "count":"1",
-    "name":"Exosuit head",
-    "tool":"Welder's tools",
+    "name":"exosuit head",
+    "tool":"welder's tools",
     "weight":""
   },
-  "Exosuit limbs":{
+  "exosuit limbs":{
     "components":[
-      "Servo",
-      "Servo",
-      "Control chip",
-      "Titanium plate",
-      "Titanium rod"
+      "servo",
+      "servo",
+      "control chip",
+      "titanium plate",
+      "titanium rod"
     ],
     "count":"1",
-    "name":"Exosuit limbs",
-    "tool":"Welder's tools",
+    "name":"exosuit limbs",
+    "tool":"welder's tools",
     "weight":""
   },
-  "Exosuit skeleton":{
+  "exosuit skeleton":{
     "components":[
-      "Exosuit limbs",
-      "Exosuit limbs",
-      "Exosuit core",
-      "Exosuit head"
+      "exosuit limbs",
+      "exosuit limbs",
+      "exosuit core",
+      "exosuit head"
     ],
     "count":"1",
-    "name":"Exosuit skeleton",
-    "tool":"Welder's tools",
+    "name":"exosuit skeleton",
+    "tool":"welder's tools",
     "weight":""
   },
-  "Exosuit, combat":{
+  "exosuit, combat":{
     "components":[
-      "Exosuit, miner's",
-      "Exosuit computer",
-      "Exosuit armor",
-      "Exosuit armor",
-      "Exosuit armor"
+      "exosuit, miner's",
+      "exosuit computer",
+      "exosuit armor",
+      "exosuit armor",
+      "exosuit armor"
     ],
     "count":"1",
-    "name":"Exosuit, combat",
-    "tool":"Welder's tools",
+    "name":"exosuit, combat",
+    "tool":"welder's tools",
     "weight":""
   },
-  "Exosuit, miner's":{
+  "exosuit, miner's":{
     "components":[
-      "Exosuit skeleton",
-      "Exosuit computer",
-      "Exosuit armor",
-      "Exosuit armor",
-      "Camera, digital"
+      "exosuit skeleton",
+      "exosuit computer",
+      "exosuit armor",
+      "exosuit armor",
+      "camera, digital"
     ],
     "count":"1",
-    "name":"Exosuit, miner's",
-    "tool":"Welder's tools",
+    "name":"exosuit, miner's",
+    "tool":"welder's tools",
     "weight":""
   },
-  "Explosive charge":{
+  "explosive charge":{
     "components":[
-      "Steel tank",
-      "Gunpowder, improved",
-      "Gunpowder, improved",
-      "Hydrocarbon",
-      "Wire"
+      "steel tank",
+      "gunpowder, improved",
+      "gunpowder, improved",
+      "hydrocarbon",
+      "wire"
     ],
     "count":"",
-    "name":"Explosive charge",
-    "tool":"Electronics kit",
+    "name":"explosive charge",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Fabric":{
+  "fabric":{
     "components":[],
     "count":"1",
-    "name":"Fabric",
-    "tool":"N/A",
+    "name":"fabric",
+    "tool":"n/a",
     "weight":"1"
   },
-  "Face mask, oxygen":{
+  "face mask, oxygen":{
     "components":[
-      "Fabric",
-      "Silicone",
-      "Polymer plate",
-      "Polymer mesh"
+      "fabric",
+      "silicone",
+      "polymer plate",
+      "polymer mesh"
     ],
     "count":"1",
-    "name":"Face mask, oxygen",
-    "tool":"Tailor's tools",
+    "name":"face mask, oxygen",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Firearm hammer":{
+  "firearm hammer":{
     "components":[
-      "Steel plate",
-      "Steel spring"
+      "steel plate",
+      "steel spring"
     ],
     "count":"",
-    "name":"Firearm hammer",
-    "tool":"Gunsmith's tools",
+    "name":"firearm hammer",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Firearm striker":{
+  "firearm striker":{
     "components":[
-      "Steel plate",
-      "Aluminium rod",
-      "Steel spring"
+      "steel plate",
+      "aluminium rod",
+      "steel spring"
     ],
     "count":"",
-    "name":"Firearm striker",
-    "tool":"Gunsmith's tools",
+    "name":"firearm striker",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Flamethrower":{
+  "flamethrower":{
     "components":[
-      "Electronic firing pin",
-      "Titanium tank",
-      "Launcher trigger pack",
-      "Steelrel"
+      "electronic firing pin",
+      "titanium tank",
+      "launcher trigger pack",
+      "steelrel"
     ],
     "count":"",
-    "name":"Flamethrower",
-    "tool":"Gunsmith's tools",
+    "name":"flamethrower",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Flare gun":{
+  "flare gun":{
     "components":[
-      "Aluminium revolver frame",
-      "Aluminium barrel",
-      "Firearm hammer"
+      "aluminium revolver frame",
+      "aluminium barrel",
+      "firearm hammer"
     ],
     "count":"",
-    "name":"Flare gun",
-    "tool":"Gunsmith's tools",
+    "name":"flare gun",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Flare, high-intensity":{
+  "flare, high-intensity":{
     "components":[
-      "Gunpowder",
-      "Shotgun hull",
-      "Aluminium",
-      "Hydrocarbon"
+      "gunpowder",
+      "shotgun hull",
+      "aluminium",
+      "hydrocarbon"
     ],
     "count":"20",
-    "name":"Flare, high-intensity",
-    "tool":"Reloading set",
+    "name":"flare, high-intensity",
+    "tool":"reloading set",
     "weight":"2"
   },
-  "Flare, infrared":{
+  "flare, infrared":{
     "components":[
-      "Gunpowder",
-      "Shotgun hull",
-      "Tungsten",
-      "Hydrocarbon"
+      "gunpowder",
+      "shotgun hull",
+      "tungsten",
+      "hydrocarbon"
     ],
     "count":"20",
-    "name":"Flare, infrared",
-    "tool":"Reloading set",
+    "name":"flare, infrared",
+    "tool":"reloading set",
     "weight":"2"
   },
-  "Flashlight":{
+  "flashlight":{
     "components":[
-      "Polymer tube",
-      "LED",
-      "Glass lens",
-      "Lithium-ion battery",
-      "Wire"
+      "polymer tube",
+      "led",
+      "glass lens",
+      "lithium-ion battery",
+      "wire"
     ],
     "count":"1",
-    "name":"Flashlight",
-    "tool":"Electronics kit",
+    "name":"flashlight",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Flight assembly, large":{
+  "flight assembly, large":{
     "components":[
-      "Steel plate",
-      "Rotor, hydrocarbon",
-      "Rotor, hydrocarbon",
-      "Rotor, hydrocarbon",
-      "Rotor, hydrocarbon"
+      "steel plate",
+      "rotor, hydrocarbon",
+      "rotor, hydrocarbon",
+      "rotor, hydrocarbon",
+      "rotor, hydrocarbon"
     ],
     "count":"1",
-    "name":"Flight assembly, large",
-    "tool":"Microprinter",
+    "name":"flight assembly, large",
+    "tool":"microprinter",
     "weight":""
   },
-  "Flight assembly, small":{
+  "flight assembly, small":{
     "components":[
-      "Polymer plate",
-      "Rotor, electric",
-      "Rotor, electric",
-      "Rotor, electric",
-      "Rotor, electric"
+      "polymer plate",
+      "rotor, electric",
+      "rotor, electric",
+      "rotor, electric",
+      "rotor, electric"
     ],
     "count":"1",
-    "name":"Flight assembly, small",
-    "tool":"Microprinter",
+    "name":"flight assembly, small",
+    "tool":"microprinter",
     "weight":""
   },
-  "Flying drone":{
+  "flying drone":{
     "components":[
-      "Flight assembly, large",
-      "Antenna",
-      "CPU",
-      "Lithium-ion battery",
-      "Steel tank"
+      "flight assembly, large",
+      "antenna",
+      "cpu",
+      "lithium-ion battery",
+      "steel tank"
     ],
     "count":"1",
-    "name":"Flying drone",
-    "tool":"Electronics kit",
+    "name":"flying drone",
+    "tool":"electronics kit",
     "weight":""
   },
-  "GPS beacon":{
+  "gps beacon":{
     "components":[
-      "Antenna",
-      "Radio chip",
-      "Button cell battery"
+      "antenna",
+      "radio chip",
+      "button cell battery"
     ],
     "count":"1",
-    "name":"GPS beacon",
-    "tool":"Electronics kit",
+    "name":"gps beacon",
+    "tool":"electronics kit",
     "weight":""
   },
-  "GPS device":{
+  "gps device":{
     "components":[
-      "GPS radio assembly",
-      "LCD screen",
-      "Lithium-ion battery"
+      "gps radio assembly",
+      "lcd screen",
+      "lithium-ion battery"
     ],
     "count":"1",
-    "name":"GPS device",
-    "tool":"Electronics kit",
+    "name":"gps device",
+    "tool":"electronics kit",
     "weight":""
   },
-  "GPS radio assembly":{
+  "gps radio assembly":{
     "components":[
-      "Antenna",
-      "Radio chip",
-      "Control chip"
+      "antenna",
+      "radio chip",
+      "control chip"
     ],
     "count":"1",
-    "name":"GPS radio assembly",
-    "tool":"Electronics kit",
+    "name":"gps radio assembly",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Geiger-Muller counter":{
+  "geiger-muller counter":{
     "components":[
-      "Geiger-Muller tube",
-      "Control chip",
-      "PCB",
-      "LCD screen",
-      "Lithium-ion battery"
+      "geiger-muller tube",
+      "control chip",
+      "pcb",
+      "lcd screen",
+      "lithium-ion battery"
     ],
     "count":"1",
-    "name":"Geiger-Muller counter",
-    "tool":"Electronics kit",
+    "name":"geiger-muller counter",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Geiger-Muller tube":{
+  "geiger-muller tube":{
     "components":[
-      "Aluminium tube",
-      "Silicon",
-      "Wire"
+      "aluminium tube",
+      "silicon",
+      "wire"
     ],
     "count":"1",
-    "name":"Geiger-Muller tube",
-    "tool":"Microprinter",
+    "name":"geiger-muller tube",
+    "tool":"microprinter",
     "weight":""
   },
-  "Glass":{
+  "glass":{
     "components":[],
     "count":"1",
-    "name":"Glass",
-    "tool":"N/A",
+    "name":"glass",
+    "tool":"n/a",
     "weight":"1"
   },
-  "Glass lens":{
+  "glass lens":{
     "components":[
-      "Glass plate"
+      "glass plate"
     ],
     "count":"1",
-    "name":"Glass lens",
-    "tool":"Rolling machine",
+    "name":"glass lens",
+    "tool":"rolling machine",
     "weight":""
   },
-  "Glass plate":{
+  "glass plate":{
     "components":[
-      "Glass"
+      "glass"
     ],
     "count":"1",
-    "name":"Glass plate",
-    "tool":"Rolling machine",
+    "name":"glass plate",
+    "tool":"rolling machine",
     "weight":""
   },
-  "Gold":{
+  "gold":{
     "components":[],
     "count":"1",
-    "name":"Gold",
-    "tool":"N/A",
+    "name":"gold",
+    "tool":"n/a",
     "weight":"1"
   },
-  "Grenade barrel":{
+  "grenade barrel":{
     "components":[
-      "Steelrel",
-      "Steelrel"
+      "steelrel",
+      "steelrel"
     ],
     "count":"",
-    "name":"Grenade barrel",
-    "tool":"Lathe",
+    "name":"grenade barrel",
+    "tool":"lathe",
     "weight":""
   },
-  "Grenade launcher drum":{
+  "grenade launcher drum":{
     "components":[
-      "Titanium plate",
-      "Titanium plate",
-      "Steel spring",
-      "Steel spring",
-      "Steel screw"
+      "titanium plate",
+      "titanium plate",
+      "steel spring",
+      "steel spring",
+      "steel screw"
     ],
     "count":"",
-    "name":"Grenade launcher drum",
-    "tool":"Lathe",
+    "name":"grenade launcher drum",
+    "tool":"lathe",
     "weight":""
   },
-  "Gunpowder":{
+  "gunpowder":{
     "components":[
-      "Hydrocarbon",
-      "Nanocarbon"
+      "hydrocarbon",
+      "nanocarbon"
     ],
     "count":"1",
-    "name":"Gunpowder",
-    "tool":"Chemist's supplies",
+    "name":"gunpowder",
+    "tool":"chemist's supplies",
     "weight":"0.5"
   },
-  "Gunpowder, improved":{
+  "gunpowder, improved":{
     "components":[
-      "Gunpowder",
-      "Nanocarbon",
-      "Lithium"
+      "gunpowder",
+      "nanocarbon",
+      "lithium"
     ],
     "count":"1",
-    "name":"Gunpowder, improved",
-    "tool":"Chemist's supplies",
+    "name":"gunpowder, improved",
+    "tool":"chemist's supplies",
     "weight":"0.5"
   },
-  "HAZMAT suit, biochem":{
+  "hazmat suit, biochem":{
     "components":[
-      "Polymer fabric",
-      "Polymer fabric",
-      "Polymer fabric",
-      "Glass plate",
-      "Silicone"
+      "polymer fabric",
+      "polymer fabric",
+      "polymer fabric",
+      "glass plate",
+      "silicone"
     ],
     "count":"1",
-    "name":"HAZMAT suit, biochem",
-    "tool":"Tailor's tools",
+    "name":"hazmat suit, biochem",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "HAZMAT suit, radiation":{
+  "hazmat suit, radiation":{
     "components":[
-      "Polymer fabric",
-      "Polymer fabric",
-      "Polymer fabric",
-      "Glass plate",
-      "Lead plate"
+      "polymer fabric",
+      "polymer fabric",
+      "polymer fabric",
+      "glass plate",
+      "lead plate"
     ],
     "count":"1",
-    "name":"HAZMAT suit, radiation",
-    "tool":"Tailor's tools",
+    "name":"hazmat suit, radiation",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Hammock":{
+  "hammock":{
     "components":[
-      "Fabric",
-      "Fabric"
+      "fabric",
+      "fabric"
     ],
     "count":"1",
-    "name":"Hammock",
-    "tool":"Tailor's tools",
+    "name":"hammock",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Hand cannon magazine":{
+  "hand cannon magazine":{
     "components":[
-      "Titanium plate",
-      "Steel spring",
-      "Steel spring",
-      "Steel screw"
+      "titanium plate",
+      "steel spring",
+      "steel spring",
+      "steel screw"
     ],
     "count":"",
-    "name":"Hand cannon magazine",
-    "tool":"Microprinting kit",
+    "name":"hand cannon magazine",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "Headlamp":{
+  "headlamp":{
     "components":[
-      "LED",
-      "Fabric",
-      "Button cell battery"
+      "led",
+      "fabric",
+      "button cell battery"
     ],
     "count":"1",
-    "name":"Headlamp",
-    "tool":"Microprinter",
+    "name":"headlamp",
+    "tool":"microprinter",
     "weight":""
   },
-  "Headlamp, bullseye":{
+  "headlamp, bullseye":{
     "components":[
-      "Headlamp",
-      "Polymer plate"
+      "headlamp",
+      "polymer plate"
     ],
     "count":"1",
-    "name":"Headlamp, bullseye",
-    "tool":"Microprinter",
+    "name":"headlamp, bullseye",
+    "tool":"microprinter",
     "weight":""
   },
-  "Headset":{
+  "headset":{
     "components":[
-      "Antenna",
-      "Radio chip",
-      "Control chip",
-      "Button cell battery"
+      "antenna",
+      "radio chip",
+      "control chip",
+      "button cell battery"
     ],
     "count":"1",
-    "name":"Headset",
-    "tool":"Electronics kit",
+    "name":"headset",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Heavy pistol magazine":{
+  "heavy pistol magazine":{
     "components":[
-      "Steel plate",
-      "Steel spring",
-      "Steel screw"
+      "steel plate",
+      "steel spring",
+      "steel screw"
     ],
     "count":"",
-    "name":"Heavy pistol magazine",
-    "tool":"Microprinting kit",
+    "name":"heavy pistol magazine",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "Heavy rifle magazine":{
+  "heavy rifle magazine":{
     "components":[
-      "Steel plate",
-      "Steel plate",
-      "Steel spring",
-      "Steel screw"
+      "steel plate",
+      "steel plate",
+      "steel spring",
+      "steel screw"
     ],
     "count":"",
-    "name":"Heavy rifle magazine",
-    "tool":"Microprinting kit",
+    "name":"heavy rifle magazine",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "Heavy rifle receiver":{
+  "heavy rifle receiver":{
     "components":[
-      "Steel plate",
-      "Titanium plate",
-      "Titanium rod"
+      "steel plate",
+      "titanium plate",
+      "titanium rod"
     ],
     "count":"",
-    "name":"Heavy rifle receiver",
-    "tool":"Microprinting kit",
+    "name":"heavy rifle receiver",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "Heavy shotgun receiver":{
+  "heavy shotgun receiver":{
     "components":[
-      "Titanium tank",
-      "Titanium plate",
-      "Titanium rod",
-      "Steel spring"
+      "titanium tank",
+      "titanium plate",
+      "titanium rod",
+      "steel spring"
     ],
     "count":"",
-    "name":"Heavy shotgun receiver",
-    "tool":"Microprinting kit",
+    "name":"heavy shotgun receiver",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "Holster":{
+  "holster":{
     "components":[
-      "Leather",
-      "Leather"
+      "leather",
+      "leather"
     ],
     "count":"1",
-    "name":"Holster",
-    "tool":"Tailor's tools",
+    "name":"holster",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Holster, concealed":{
+  "holster, concealed":{
     "components":[
-      "Fabric",
-      "Leather",
-      "Leather"
+      "fabric",
+      "leather",
+      "leather"
     ],
     "count":"1",
-    "name":"Holster, concealed",
-    "tool":"Tailor's tools",
+    "name":"holster, concealed",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Hydrocarbon":{
+  "hydrocarbon":{
     "components":[],
     "count":"1",
-    "name":"Hydrocarbon",
-    "tool":"N/A",
+    "name":"hydrocarbon",
+    "tool":"n/a",
     "weight":"1"
   },
-  "ID card, programmable":{
+  "id card, programmable":{
     "components":[
-      "PCB",
-      "LCD screen",
-      "Solar cell"
+      "pcb",
+      "lcd screen",
+      "solar cell"
     ],
     "count":"1",
-    "name":"ID card, programmable",
-    "tool":"Electronics kit",
+    "name":"id card, programmable",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Infopad assembly":{
+  "infopad assembly":{
     "components":[
-      "PCB",
-      "Control chip",
-      "LCD screen",
-      "Radio chip",
-      "Antenna"
+      "pcb",
+      "control chip",
+      "lcd screen",
+      "radio chip",
+      "antenna"
     ],
     "count":"1",
-    "name":"Infopad assembly",
-    "tool":"Electronics kit",
+    "name":"infopad assembly",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Infopad, basic":{
+  "infopad, basic":{
     "components":[
-      "Infopad assembly",
-      "Lithium-ion battery"
+      "infopad assembly",
+      "lithium-ion battery"
     ],
     "count":"1",
-    "name":"Infopad, basic",
-    "tool":"Electronics kit",
+    "name":"infopad, basic",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Infopad, military":{
+  "infopad, military":{
     "components":[
-      "Infopad assembly",
-      "GPS radio assembly",
-      "Lithium-ion battery"
+      "infopad assembly",
+      "gps radio assembly",
+      "lithium-ion battery"
     ],
     "count":"1",
-    "name":"Infopad, military",
-    "tool":"Electronics kit",
+    "name":"infopad, military",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Injector electronics":{
+  "injector electronics":{
     "components":[
-      "PCB",
-      "Timing chip",
-      "Control chip"
+      "pcb",
+      "timing chip",
+      "control chip"
     ],
     "count":"5",
-    "name":"Injector electronics",
-    "tool":"Circuitry machine",
+    "name":"injector electronics",
+    "tool":"circuitry machine",
     "weight":""
   },
-  "Insulation":{
+  "insulation":{
     "components":[
-      "Fabric"
+      "fabric"
     ],
     "count":"1",
-    "name":"Insulation",
-    "tool":"Tailor's tools",
+    "name":"insulation",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "LAER":{
+  "laer":{
     "components":[
-      "Electronic firing pin",
+      "electronic firing pin",
       "4-cell pack",
-      "Infopad assembly",
-      "Timing chip",
-      "Laser diode"
+      "infopad assembly",
+      "timing chip",
+      "laser diode"
     ],
     "count":"",
-    "name":"LAER",
-    "tool":"Electronics kit",
+    "name":"laer",
+    "tool":"electronics kit",
     "weight":""
   },
-  "LAER, compact":{
+  "laer, compact":{
     "components":[
-      "Electronic firing pin",
+      "electronic firing pin",
       "2-cell pack",
-      "Infopad assembly",
-      "Timing chip",
-      "Laser diode"
+      "infopad assembly",
+      "timing chip",
+      "laser diode"
     ],
     "count":"",
-    "name":"LAER, compact",
-    "tool":"Electronics kit",
+    "name":"laer, compact",
+    "tool":"electronics kit",
     "weight":""
   },
-  "LCD screen":{
+  "lcd screen":{
     "components":[
-      "PCB",
-      "Polymer plate",
-      "Silicon"
+      "pcb",
+      "polymer plate",
+      "silicon"
     ],
     "count":"1",
-    "name":"LCD screen",
-    "tool":"Circuitry machine",
+    "name":"lcd screen",
+    "tool":"circuitry machine",
     "weight":""
   },
-  "LED":{
+  "led":{
     "components":[
-      "Wire",
-      "Silicon",
-      "Polymer"
+      "wire",
+      "silicon",
+      "polymer"
     ],
     "count":"5",
-    "name":"LED",
-    "tool":"Circuitry machine",
+    "name":"led",
+    "tool":"circuitry machine",
     "weight":""
   },
-  "Laser designator":{
+  "laser designator":{
     "components":[
-      "Laser diode",
-      "CPU",
-      "Radio chip",
-      "Antenna",
-      "Button cell battery"
+      "laser diode",
+      "cpu",
+      "radio chip",
+      "antenna",
+      "button cell battery"
     ],
     "count":"1",
-    "name":"Laser designator",
-    "tool":"Electronics kit",
+    "name":"laser designator",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Laser diode":{
+  "laser diode":{
     "components":[
-      "Silicon",
-      "Steel tube",
-      "Wire",
-      "Gold"
+      "silicon",
+      "steel tube",
+      "wire",
+      "gold"
     ],
     "count":"1",
-    "name":"Laser diode",
-    "tool":"Circuitry machine",
+    "name":"laser diode",
+    "tool":"circuitry machine",
     "weight":""
   },
-  "Launcher trigger pack":{
+  "launcher trigger pack":{
     "components":[
-      "Titanium plate",
-      "Steel spring",
-      "Firearm hammer"
+      "titanium plate",
+      "steel spring",
+      "firearm hammer"
     ],
     "count":"",
-    "name":"Launcher trigger pack",
-    "tool":"Gunsmith's tools",
+    "name":"launcher trigger pack",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Launcher, grenade":{
+  "launcher, grenade":{
     "components":[
-      "Electronic firing pin",
-      "Grenade barrel",
-      "Launcher trigger pack"
+      "electronic firing pin",
+      "grenade barrel",
+      "launcher trigger pack"
     ],
     "count":"",
-    "name":"Launcher, grenade",
-    "tool":"Gunsmith's tools",
+    "name":"launcher, grenade",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Launcher, grenade, multiple":{
+  "launcher, grenade, multiple":{
     "components":[
-      "Electronic firing pin",
-      "Grenade barrel",
-      "Launcher trigger pack",
-      "Grenade launcher drum"
+      "electronic firing pin",
+      "grenade barrel",
+      "launcher trigger pack",
+      "grenade launcher drum"
     ],
     "count":"",
-    "name":"Launcher, grenade, multiple",
-    "tool":"Gunsmith's tools",
+    "name":"launcher, grenade, multiple",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Launcher, grenade, swarm":{
+  "launcher, grenade, swarm":{
     "components":[
-      "Electronic firing pin",
-      "Grenade barrel",
-      "Launcher trigger pack",
-      "Grenade launcher drum",
-      "Laser designator"
+      "electronic firing pin",
+      "grenade barrel",
+      "launcher trigger pack",
+      "grenade launcher drum",
+      "laser designator"
     ],
     "count":"",
-    "name":"Launcher, grenade, swarm",
-    "tool":"Gunsmith's tools",
+    "name":"launcher, grenade, swarm",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Launcher, rocket":{
+  "launcher, rocket":{
     "components":[
-      "Electronic firing pin",
-      "Rocket launch tube",
-      "Launcher trigger pack",
-      "Rocket stabilizer assembly"
+      "electronic firing pin",
+      "rocket launch tube",
+      "launcher trigger pack",
+      "rocket stabilizer assembly"
     ],
     "count":"",
-    "name":"Launcher, rocket",
-    "tool":"Gunsmith's tools",
+    "name":"launcher, rocket",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Launcher, rocket, multiple":{
+  "launcher, rocket, multiple":{
     "components":[
-      "Electronic firing pin",
-      "Rocket multilaunch tube",
-      "Launcher trigger pack",
-      "Launcher trigger pack"
+      "electronic firing pin",
+      "rocket multilaunch tube",
+      "launcher trigger pack",
+      "launcher trigger pack"
     ],
     "count":"",
-    "name":"Launcher, rocket, multiple",
-    "tool":"Gunsmith's tools",
+    "name":"launcher, rocket, multiple",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Lead":{
+  "lead":{
     "components":[],
     "count":"1",
-    "name":"Lead",
-    "tool":"N/A",
+    "name":"lead",
+    "tool":"n/a",
     "weight":"1"
   },
-  "Lead plate":{
+  "lead plate":{
     "components":[
-      "Lead"
+      "lead"
     ],
     "count":"1",
-    "name":"Lead plate",
-    "tool":"Rolling machine",
+    "name":"lead plate",
+    "tool":"rolling machine",
     "weight":""
   },
-  "Lead shot":{
+  "lead shot":{
     "components":[
-      "Lead"
+      "lead"
     ],
     "count":"20",
-    "name":"Lead shot",
-    "tool":"Rolling machine",
+    "name":"lead shot",
+    "tool":"rolling machine",
     "weight":"1"
   },
-  "Leather":{
+  "leather":{
     "components":[],
     "count":"1",
-    "name":"Leather",
-    "tool":"N/A",
+    "name":"leather",
+    "tool":"n/a",
     "weight":"1"
   },
-  "Light pistol magazine":{
+  "light pistol magazine":{
     "components":[
-      "Aluminium plate",
-      "Steel spring"
+      "aluminium plate",
+      "steel spring"
     ],
     "count":"",
-    "name":"Light pistol magazine",
-    "tool":"Microprinting kit",
+    "name":"light pistol magazine",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "Light rifle magazine":{
+  "light rifle magazine":{
     "components":[
-      "Steel plate",
-      "Steel spring",
-      "Steel screw"
+      "steel plate",
+      "steel spring",
+      "steel screw"
     ],
     "count":"",
-    "name":"Light rifle magazine",
-    "tool":"Microprinting kit",
+    "name":"light rifle magazine",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "Light rifle receiver":{
+  "light rifle receiver":{
     "components":[
-      "Steel plate",
-      "Steel plate",
-      "Titanium rod"
+      "steel plate",
+      "steel plate",
+      "titanium rod"
     ],
     "count":"",
-    "name":"Light rifle receiver",
-    "tool":"Microprinting kit",
+    "name":"light rifle receiver",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "Lithium":{
+  "lithium":{
     "components":[],
     "count":"1",
-    "name":"Lithium",
-    "tool":"N/A",
+    "name":"lithium",
+    "tool":"n/a",
     "weight":"1"
   },
-  "Lithium-ion battery":{
+  "lithium-ion battery":{
     "components":[
-      "Lithium",
-      "Polymer plate",
-      "Steel tube"
+      "lithium",
+      "polymer plate",
+      "steel tube"
     ],
     "count":"4",
-    "name":"Lithium-ion battery",
-    "tool":"Circuitry machine",
+    "name":"lithium-ion battery",
+    "tool":"circuitry machine",
     "weight":"1"
   },
-  "Machine gun beltloader":{
+  "machine gun beltloader":{
     "components":[
-      "Titanium plate",
-      "Steel spring"
+      "titanium plate",
+      "steel spring"
     ],
     "count":"",
-    "name":"Machine gun beltloader",
-    "tool":"Microprinting kit",
+    "name":"machine gun beltloader",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "Machine gun receiver":{
+  "machine gun receiver":{
     "components":[
-      "Titanium tank",
-      "Titanium plate",
-      "Titanium rod",
-      "Steel spring"
+      "titanium tank",
+      "titanium plate",
+      "titanium rod",
+      "steel spring"
     ],
     "count":"",
-    "name":"Machine gun receiver",
-    "tool":"Microprinting kit",
+    "name":"machine gun receiver",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "Machine gun, SAW":{
+  "machine gun, saw":{
     "components":[
-      "Light rifle receiver",
-      "Rifle trigger pack",
-      "Steelrel",
-      "Rifle gas bolt",
-      "Rifle drum magazine"
+      "light rifle receiver",
+      "rifle trigger pack",
+      "steelrel",
+      "rifle gas bolt",
+      "rifle drum magazine"
     ],
     "count":"",
-    "name":"Machine gun, SAW",
-    "tool":"Gunsmith's tools",
+    "name":"machine gun, saw",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Machine gun, heavy":{
+  "machine gun, heavy":{
     "components":[
-      "BMG receiver",
-      "Rifle trigger pack",
-      "Tungsten barrel",
-      "Rifle gas bolt",
-      "Machine gun beltloader"
+      "bmg receiver",
+      "rifle trigger pack",
+      "tungsten barrel",
+      "rifle gas bolt",
+      "machine gun beltloader"
     ],
     "count":"",
-    "name":"Machine gun, heavy",
-    "tool":"Gunsmith's tools",
+    "name":"machine gun, heavy",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Machine gun, medium":{
+  "machine gun, medium":{
     "components":[
-      "Machine gun receiver",
-      "Rifle trigger pack",
-      "Titanium barrel",
-      "Rifle gas bolt",
-      "Machine gun beltloader"
+      "machine gun receiver",
+      "rifle trigger pack",
+      "titanium barrel",
+      "rifle gas bolt",
+      "machine gun beltloader"
     ],
     "count":"",
-    "name":"Machine gun, medium",
-    "tool":"Gunsmith's tools",
+    "name":"machine gun, medium",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Machine pistol receiver":{
+  "machine pistol receiver":{
     "components":[
-      "Steel plate",
-      "Steel plate",
-      "Steel screw"
+      "steel plate",
+      "steel plate",
+      "steel screw"
     ],
     "count":"",
-    "name":"Machine pistol receiver",
-    "tool":"Microprinting kit",
+    "name":"machine pistol receiver",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "Magboots":{
+  "magboots":{
     "components":[
-      "Fabric",
-      "Leather",
-      "Motor",
-      "Motor",
-      "Lithium-ion battery"
+      "fabric",
+      "leather",
+      "motor",
+      "motor",
+      "lithium-ion battery"
     ],
     "count":"1",
-    "name":"Magboots",
-    "tool":"Electronics kit",
+    "name":"magboots",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Makeup kit, automatic":{
+  "makeup kit, automatic":{
     "components":[
-      "Servo",
-      "Servo",
-      "Control chip",
-      "Polymer plate",
-      "Makeup powder"
+      "servo",
+      "servo",
+      "control chip",
+      "polymer plate",
+      "makeup powder"
     ],
     "count":"1",
-    "name":"Makeup kit, automatic",
-    "tool":"Electronics kit",
+    "name":"makeup kit, automatic",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Makeup powder":{
+  "makeup powder":{
     "components":[
-      "Nanocarbon",
-      "Hydrocarbon",
-      "Water"
+      "nanocarbon",
+      "hydrocarbon",
+      "water"
     ],
     "count":"1",
-    "name":"Makeup powder",
-    "tool":"Chemist's supplies",
+    "name":"makeup powder",
+    "tool":"chemist's supplies",
     "weight":""
   },
-  "Match trigger pack":{
+  "match trigger pack":{
     "components":[
-      "Titanium plate",
-      "Steel spring",
-      "Firearm hammer"
+      "titanium plate",
+      "steel spring",
+      "firearm hammer"
     ],
     "count":"",
-    "name":"Match trigger pack",
-    "tool":"Gunsmith's tools",
+    "name":"match trigger pack",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Medkit, disposable":{
+  "medkit, disposable":{
     "components":[
-      "Disinfectant",
-      "Bandages",
-      "Syringe",
-      "Tourniquet"
+      "disinfectant",
+      "bandages",
+      "syringe",
+      "tourniquet"
     ],
     "count":"1",
-    "name":"Medkit, disposable",
-    "tool":"None",
+    "name":"medkit, disposable",
+    "tool":"none",
     "weight":""
   },
-  "Medkit, military":{
+  "medkit, military":{
     "components":[
-      "Medkit, survival",
-      "Medkit, disposable"
+      "medkit, survival",
+      "medkit, disposable"
     ],
     "count":"1",
-    "name":"Medkit, military",
-    "tool":"None",
+    "name":"medkit, military",
+    "tool":"none",
     "weight":""
   },
-  "Medkit, survival":{
+  "medkit, survival":{
     "components":[
-      "Medkit, disposable",
-      "Medkit, disposable"
+      "medkit, disposable",
+      "medkit, disposable"
     ],
     "count":"1",
-    "name":"Medkit, survival",
-    "tool":"None",
+    "name":"medkit, survival",
+    "tool":"none",
     "weight":""
   },
-  "Memory chip":{
+  "memory chip":{
     "components":[
-      "Steel plate",
-      "Polymer plate",
-      "Silicon"
+      "steel plate",
+      "polymer plate",
+      "silicon"
     ],
     "count":"5",
-    "name":"Memory chip",
-    "tool":"Circuitry machine",
+    "name":"memory chip",
+    "tool":"circuitry machine",
     "weight":""
   },
-  "Memstick":{
+  "memstick":{
     "components":[
-      "RAM stick",
-      "RAM stick"
+      "ram stick",
+      "ram stick"
     ],
     "count":"1",
-    "name":"Memstick",
-    "tool":"Electronics kit",
+    "name":"memstick",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Micro sensor assembly":{
+  "micro sensor assembly":{
     "components":[
-      "Servo",
-      "Microfluidics assembly",
-      "Geiger-Muller tube",
-      "CPU"
+      "servo",
+      "microfluidics assembly",
+      "geiger-muller tube",
+      "cpu"
     ],
     "count":"1",
-    "name":"Micro sensor assembly",
-    "tool":"Electronics kit",
+    "name":"micro sensor assembly",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Motion sensor":{
+  "motion sensor":{
     "components":[
-      "Control chip",
-      "Memory chip",
-      "Motor",
-      "Lithium-ion battery",
-      "Polymer plate"
+      "control chip",
+      "memory chip",
+      "motor",
+      "lithium-ion battery",
+      "polymer plate"
     ],
     "count":"1",
-    "name":"Motion sensor",
-    "tool":"Electronics kit",
+    "name":"motion sensor",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Motor":{
+  "motor":{
     "components":[
-      "Wire",
-      "Wire",
-      "Steel tube"
+      "wire",
+      "wire",
+      "steel tube"
     ],
     "count":"1",
-    "name":"Motor",
-    "tool":"Electronics kit",
+    "name":"motor",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Nanocarbon":{
+  "nanocarbon":{
     "components":[],
     "count":"1",
-    "name":"Nanocarbon",
-    "tool":"N/A",
+    "name":"nanocarbon",
+    "tool":"n/a",
     "weight":"1"
   },
-  "Net, camouflage":{
+  "net, camouflage":{
     "components":[
-      "Fabric"
+      "fabric"
     ],
     "count":"1",
-    "name":"Net, camouflage",
-    "tool":"Tailor's tools",
+    "name":"net, camouflage",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Net, fishing":{
+  "net, fishing":{
     "components":[
-      "Polymer mesh",
-      "Polymer mesh"
+      "polymer mesh",
+      "polymer mesh"
     ],
     "count":"1",
-    "name":"Net, fishing",
-    "tool":"Tailor's tools",
+    "name":"net, fishing",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Night vision goggles, gen. 1":{
+  "night vision goggles, gen. 1":{
     "components":[
-      "Optical subassembly A",
-      "Optical subassembly A",
-      "Lithium-ion battery",
-      "Lithium-ion battery"
+      "optical subassembly a",
+      "optical subassembly a",
+      "lithium-ion battery",
+      "lithium-ion battery"
     ],
     "count":"1",
-    "name":"Night vision goggles, gen. 1",
-    "tool":"Electronics kit",
+    "name":"night vision goggles, gen. 1",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Night vision goggles, gen. 2":{
+  "night vision goggles, gen. 2":{
     "components":[
-      "Optical subassembly B",
-      "Optical subassembly B",
-      "Lithium-ion battery",
-      "Lithium-ion battery",
-      "Lithium-ion battery"
+      "optical subassembly b",
+      "optical subassembly b",
+      "lithium-ion battery",
+      "lithium-ion battery",
+      "lithium-ion battery"
     ],
     "count":"1",
-    "name":"Night vision goggles, gen. 2",
-    "tool":"Electronics kit",
+    "name":"night vision goggles, gen. 2",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Night vision goggles, gen. 3":{
+  "night vision goggles, gen. 3":{
     "components":[
-      "Optical subassembly C",
-      "Optical subassembly C",
-      "Optical subassembly C",
-      "Optical subassembly C",
+      "optical subassembly c",
+      "optical subassembly c",
+      "optical subassembly c",
+      "optical subassembly c",
       "4-cell pack"
     ],
     "count":"1",
-    "name":"Night vision goggles, gen. 3",
-    "tool":"Electronics kit",
+    "name":"night vision goggles, gen. 3",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Optical subassembly A":{
+  "optical subassembly a":{
     "components":[
-      "LCD screen",
-      "Optics chip"
+      "lcd screen",
+      "optics chip"
     ],
     "count":"1",
-    "name":"Optical subassembly A",
-    "tool":"Electronics kit",
+    "name":"optical subassembly a",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Optical subassembly B":{
+  "optical subassembly b":{
     "components":[
-      "LCD screen",
-      "Optics chip",
-      "Laser diode",
-      "CPU"
+      "lcd screen",
+      "optics chip",
+      "laser diode",
+      "cpu"
     ],
     "count":"1",
-    "name":"Optical subassembly B",
-    "tool":"Electronics kit",
+    "name":"optical subassembly b",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Optical subassembly C":{
+  "optical subassembly c":{
     "components":[
-      "Optical subassembly B",
-      "Optical subassembly B",
-      "Optical subassembly B",
-      "Optical subassembly B",
-      "CPU"
+      "optical subassembly b",
+      "optical subassembly b",
+      "optical subassembly b",
+      "optical subassembly b",
+      "cpu"
     ],
     "count":"1",
-    "name":"Optical subassembly C",
-    "tool":"Electronics kit",
+    "name":"optical subassembly c",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Optics chip":{
+  "optics chip":{
     "components":[
-      "Steel plate",
-      "Polymer plate",
-      "Silicon"
+      "steel plate",
+      "polymer plate",
+      "silicon"
     ],
     "count":"5",
-    "name":"Optics chip",
-    "tool":"Circuitry machine",
+    "name":"optics chip",
+    "tool":"circuitry machine",
     "weight":""
   },
-  "Oxycell, 24 hours":{
+  "oxycell, 24 hours":{
     "components":[
-      "Steel tank",
-      "Oxycell, 8 hours",
-      "Water"
+      "steel tank",
+      "oxycell, 8 hours",
+      "water"
     ],
     "count":"1",
-    "name":"Oxycell, 24 hours",
-    "tool":"Chemist's supplies",
+    "name":"oxycell, 24 hours",
+    "tool":"chemist's supplies",
     "weight":""
   },
-  "Oxycell, 4 hours":{
+  "oxycell, 4 hours":{
     "components":[
-      "Steel tank",
-      "Electrolysis unit",
-      "Water"
+      "steel tank",
+      "electrolysis unit",
+      "water"
     ],
     "count":"1",
-    "name":"Oxycell, 4 hours",
-    "tool":"Chemist's supplies",
+    "name":"oxycell, 4 hours",
+    "tool":"chemist's supplies",
     "weight":""
   },
-  "Oxycell, 48 hours":{
+  "oxycell, 48 hours":{
     "components":[
-      "Steel tank",
-      "Oxycell, 24 hours",
-      "Water"
+      "steel tank",
+      "oxycell, 24 hours",
+      "water"
     ],
     "count":"1",
-    "name":"Oxycell, 48 hours",
-    "tool":"Chemist's supplies",
+    "name":"oxycell, 48 hours",
+    "tool":"chemist's supplies",
     "weight":""
   },
-  "Oxycell, 8 hours":{
+  "oxycell, 8 hours":{
     "components":[
-      "Steel tank",
-      "Oxycell, 4 hours",
-      "Water"
+      "steel tank",
+      "oxycell, 4 hours",
+      "water"
     ],
     "count":"1",
-    "name":"Oxycell, 8 hours",
-    "tool":"Chemist's supplies",
+    "name":"oxycell, 8 hours",
+    "tool":"chemist's supplies",
     "weight":""
   },
-  "PAW, version 1":{
+  "paw, version 1":{
     "components":[
-      "PAWv1 assembly",
-      "LED",
-      "Lithium-ion battery",
-      "Lithium-ion battery",
-      "Polymer plate"
+      "pawv1 assembly",
+      "led",
+      "lithium-ion battery",
+      "lithium-ion battery",
+      "polymer plate"
     ],
     "count":"1",
-    "name":"PAW, version 1",
-    "tool":"Electronics kit",
+    "name":"paw, version 1",
+    "tool":"electronics kit",
     "weight":""
   },
-  "PAW, version 2":{
+  "paw, version 2":{
     "components":[
-      "PAWv2 assembly",
-      "LED",
-      "Lithium-ion battery",
-      "Lithium-ion battery",
-      "Lithium-ion battery"
+      "pawv2 assembly",
+      "led",
+      "lithium-ion battery",
+      "lithium-ion battery",
+      "lithium-ion battery"
     ],
     "count":"1",
-    "name":"PAW, version 2",
-    "tool":"Electronics kit",
+    "name":"paw, version 2",
+    "tool":"electronics kit",
     "weight":""
   },
-  "PAWv1 assembly":{
+  "pawv1 assembly":{
     "components":[
-      "GPS radio assembly",
-      "LCD screen",
-      "Camera assembly",
-      "CPU"
+      "gps radio assembly",
+      "lcd screen",
+      "camera assembly",
+      "cpu"
     ],
     "count":"1",
-    "name":"PAWv1 assembly",
-    "tool":"Electronics kit",
+    "name":"pawv1 assembly",
+    "tool":"electronics kit",
     "weight":""
   },
-  "PAWv2 assembly":{
+  "pawv2 assembly":{
     "components":[
-      "GPS radio assembly",
-      "LCD screen",
-      "Camera assembly",
-      "Camera assembly",
-      "CPU"
+      "gps radio assembly",
+      "lcd screen",
+      "camera assembly",
+      "camera assembly",
+      "cpu"
     ],
     "count":"1",
-    "name":"PAWv2 assembly",
-    "tool":"Electronics kit",
+    "name":"pawv2 assembly",
+    "tool":"electronics kit",
     "weight":""
   },
-  "PCB":{
+  "pcb":{
     "components":[
-      "Copper plate",
-      "Polymer plate"
+      "copper plate",
+      "polymer plate"
     ],
     "count":"1",
-    "name":"PCB",
-    "tool":"Circuitry machine",
+    "name":"pcb",
+    "tool":"circuitry machine",
     "weight":""
   },
-  "PDW bolt":{
+  "pdw bolt":{
     "components":[
-      "Steel tube",
-      "Titanium rod",
-      "Steel spring"
+      "steel tube",
+      "titanium rod",
+      "steel spring"
     ],
     "count":"",
-    "name":"PDW bolt",
-    "tool":"Gunsmith's tools",
+    "name":"pdw bolt",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "PDW magazine":{
+  "pdw magazine":{
     "components":[
-      "Polymer plate",
-      "Steel spring",
-      "Steel screw"
+      "polymer plate",
+      "steel spring",
+      "steel screw"
     ],
     "count":"",
-    "name":"PDW magazine",
-    "tool":"Microprinting kit",
+    "name":"pdw magazine",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "PDW receiver":{
+  "pdw receiver":{
     "components":[
-      "Steel plate",
-      "Titanium plate",
-      "Steel screw"
+      "steel plate",
+      "titanium plate",
+      "steel screw"
     ],
     "count":"",
-    "name":"PDW receiver",
-    "tool":"Microprinting kit",
+    "name":"pdw receiver",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "PDW trigger pack":{
+  "pdw trigger pack":{
     "components":[
-      "Titanium plate",
-      "Steel spring",
-      "Firearm hammer"
+      "titanium plate",
+      "steel spring",
+      "firearm hammer"
     ],
     "count":"",
-    "name":"PDW trigger pack",
-    "tool":"Gunsmith's tools",
+    "name":"pdw trigger pack",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Pistol ammo, HC":{
+  "pistol ammo, hc":{
     "components":[
-      "Gunpowder, improved",
-      "Pistol casing",
-      "Steel",
-      "Copper",
-      "Tungsten"
+      "gunpowder, improved",
+      "pistol casing",
+      "steel",
+      "copper",
+      "tungsten"
     ],
     "count":"20",
-    "name":"Pistol ammo, HC",
-    "tool":"Reloading set",
+    "name":"pistol ammo, hc",
+    "tool":"reloading set",
     "weight":"1.25"
   },
-  "Pistol ammo, heavy":{
+  "pistol ammo, heavy":{
     "components":[
-      "Gunpowder",
-      "Pistol casing",
-      "Lead",
-      "Steel"
+      "gunpowder",
+      "pistol casing",
+      "lead",
+      "steel"
     ],
     "count":"20",
-    "name":"Pistol ammo, heavy",
-    "tool":"Reloading set",
+    "name":"pistol ammo, heavy",
+    "tool":"reloading set",
     "weight":"0.75"
   },
-  "Pistol ammo, light":{
+  "pistol ammo, light":{
     "components":[
-      "Gunpowder",
-      "Pistol casing",
-      "Lead"
+      "gunpowder",
+      "pistol casing",
+      "lead"
     ],
     "count":"20",
-    "name":"Pistol ammo, light",
-    "tool":"Reloading set",
+    "name":"pistol ammo, light",
+    "tool":"reloading set",
     "weight":"0.25"
   },
-  "Pistol ammo, std.":{
+  "pistol ammo, std.":{
     "components":[
-      "Gunpowder",
-      "Pistol casing",
-      "Lead",
-      "Copper"
+      "gunpowder",
+      "pistol casing",
+      "lead",
+      "copper"
     ],
     "count":"20",
-    "name":"Pistol ammo, std.",
-    "tool":"Reloading set",
+    "name":"pistol ammo, std.",
+    "tool":"reloading set",
     "weight":"0.5"
   },
-  "Pistol casing":{
+  "pistol casing":{
     "components":[
-      "Steel",
-      "Aluminium"
+      "steel",
+      "aluminium"
     ],
     "count":"1",
-    "name":"Pistol casing",
-    "tool":"Microprinting kit",
+    "name":"pistol casing",
+    "tool":"microprinting kit",
     "weight":"0.5"
   },
-  "Pistol gas system":{
+  "pistol gas system":{
     "components":[
-      "Titanium tube",
-      "Titanium rod",
-      "Steel spring",
-      "Steel spring"
+      "titanium tube",
+      "titanium rod",
+      "steel spring",
+      "steel spring"
     ],
     "count":"",
-    "name":"Pistol gas system",
-    "tool":"Lathe",
+    "name":"pistol gas system",
+    "tool":"lathe",
     "weight":""
   },
-  "Pistol, assassin's":{
+  "pistol, assassin's":{
     "components":[
-      "Polymer pistol frame",
-      "Steelrel",
-      "Aluminium slide",
-      "Light pistol magazine",
-      "Firearm striker"
+      "polymer pistol frame",
+      "steelrel",
+      "aluminium slide",
+      "light pistol magazine",
+      "firearm striker"
     ],
     "count":"",
-    "name":"Pistol, assassin's",
-    "tool":"Gunsmith's tools",
+    "name":"pistol, assassin's",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Pistol, combat":{
+  "pistol, combat":{
     "components":[
-      "Polymer pistol frame",
-      "Steelrel",
-      "Steel slide",
-      "Standard pistol magazine",
-      "Firearm striker"
+      "polymer pistol frame",
+      "steelrel",
+      "steel slide",
+      "standard pistol magazine",
+      "firearm striker"
     ],
     "count":"",
-    "name":"Pistol, combat",
-    "tool":"Gunsmith's tools",
+    "name":"pistol, combat",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Pistol, derringer":{
+  "pistol, derringer":{
     "components":[
-      "Aluminium revolver frame",
-      "Steelrel",
-      "Firearm hammer"
+      "aluminium revolver frame",
+      "steelrel",
+      "firearm hammer"
     ],
     "count":"",
-    "name":"Pistol, derringer",
-    "tool":"Gunsmith's tools",
+    "name":"pistol, derringer",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Pistol, duty":{
+  "pistol, duty":{
     "components":[
-      "Polymer pistol frame",
-      "Titanium barrel",
-      "Steel slide",
-      "Heavy pistol magazine",
-      "Firearm striker"
+      "polymer pistol frame",
+      "titanium barrel",
+      "steel slide",
+      "heavy pistol magazine",
+      "firearm striker"
     ],
     "count":"",
-    "name":"Pistol, duty",
-    "tool":"Gunsmith's tools",
+    "name":"pistol, duty",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Pistol, hand cannon":{
+  "pistol, hand cannon":{
     "components":[
-      "Titanium pistol frame",
-      "Titanium barrel",
-      "Titanium slide",
-      "Hand cannon magazine",
-      "Pistol gas system"
+      "titanium pistol frame",
+      "titanium barrel",
+      "titanium slide",
+      "hand cannon magazine",
+      "pistol gas system"
     ],
     "count":"",
-    "name":"Pistol, hand cannon",
-    "tool":"Gunsmith's tools",
+    "name":"pistol, hand cannon",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Pistol, machine":{
+  "pistol, machine":{
     "components":[
-      "Machine pistol receiver",
-      "Steelrel",
-      "SMG bolt",
-      "SMG magazine"
+      "machine pistol receiver",
+      "steelrel",
+      "smg bolt",
+      "smg magazine"
     ],
     "count":"",
-    "name":"Pistol, machine",
-    "tool":"Gunsmith's tools",
+    "name":"pistol, machine",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Pistol, pocket":{
+  "pistol, pocket":{
     "components":[
-      "Aluminium pistol frame",
-      "Steelrel",
-      "Aluminium slide",
-      "Light pistol magazine",
-      "Firearm hammer"
+      "aluminium pistol frame",
+      "steelrel",
+      "aluminium slide",
+      "light pistol magazine",
+      "firearm hammer"
     ],
     "count":"",
-    "name":"Pistol, pocket",
-    "tool":"Gunsmith's tools",
+    "name":"pistol, pocket",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Pistol, riot":{
+  "pistol, riot":{
     "components":[
-      "Aluminium pistol frame",
-      "Aluminium barrel",
-      "Aluminium slide",
-      "Light pistol magazine",
-      "Firearm hammer"
+      "aluminium pistol frame",
+      "aluminium barrel",
+      "aluminium slide",
+      "light pistol magazine",
+      "firearm hammer"
     ],
     "count":"",
-    "name":"Pistol, riot",
-    "tool":"Gunsmith's tools",
+    "name":"pistol, riot",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Pistol, service":{
+  "pistol, service":{
     "components":[
-      "Steel pistol frame",
-      "Steelrel",
-      "Steel slide",
-      "Standard pistol magazine",
-      "Firearm hammer"
+      "steel pistol frame",
+      "steelrel",
+      "steel slide",
+      "standard pistol magazine",
+      "firearm hammer"
     ],
     "count":"",
-    "name":"Pistol, service",
-    "tool":"Gunsmith's tools",
+    "name":"pistol, service",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Plasteel":{
+  "plasteel":{
     "components":[],
     "count":"1",
-    "name":"Plasteel",
-    "tool":"N/A",
+    "name":"plasteel",
+    "tool":"n/a",
     "weight":"1"
   },
-  "Plate carrier, empty":{
+  "plate carrier, empty":{
     "components":[
-      "Fabric",
-      "Fabric"
+      "fabric",
+      "fabric"
     ],
     "count":"1",
-    "name":"Plate carrier, empty",
-    "tool":"Tailor's tools",
+    "name":"plate carrier, empty",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Polymer":{
+  "polymer":{
     "components":[],
     "count":"1",
-    "name":"Polymer",
-    "tool":"N/A",
+    "name":"polymer",
+    "tool":"n/a",
     "weight":"1"
   },
-  "Polymer fabric":{
+  "polymer fabric":{
     "components":[
-      "Polymer mesh",
-      "Polymer mesh",
-      "Polymer mesh"
+      "polymer mesh",
+      "polymer mesh",
+      "polymer mesh"
     ],
     "count":"1",
-    "name":"Polymer fabric",
-    "tool":"Microprinting kit",
+    "name":"polymer fabric",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "Polymer mesh":{
+  "polymer mesh":{
     "components":[
-      "Polymer plate"
+      "polymer plate"
     ],
     "count":"1",
-    "name":"Polymer mesh",
-    "tool":"Microprinting kit",
+    "name":"polymer mesh",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "Polymer pistol frame":{
+  "polymer pistol frame":{
     "components":[
-      "Polymer plate",
-      "Polymer plate",
-      "Steel plate",
-      "Steel screw"
+      "polymer plate",
+      "polymer plate",
+      "steel plate",
+      "steel screw"
     ],
     "count":"",
-    "name":"Polymer pistol frame",
-    "tool":"Microprinting kit",
+    "name":"polymer pistol frame",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "Polymer plate":{
+  "polymer plate":{
     "components":[
-      "Polymer"
+      "polymer"
     ],
     "count":"1",
-    "name":"Polymer plate",
-    "tool":"Rolling machine",
+    "name":"polymer plate",
+    "tool":"rolling machine",
     "weight":""
   },
-  "Polymer rod":{
+  "polymer rod":{
     "components":[
-      "Polymer"
+      "polymer"
     ],
     "count":"1",
-    "name":"Polymer rod",
-    "tool":"Lathe",
+    "name":"polymer rod",
+    "tool":"lathe",
     "weight":""
   },
-  "Polymer tube":{
+  "polymer tube":{
     "components":[
-      "Polymer"
+      "polymer"
     ],
     "count":"1",
-    "name":"Polymer tube",
-    "tool":"Lathe",
+    "name":"polymer tube",
+    "tool":"lathe",
     "weight":""
   },
-  "Pouch":{
+  "pouch":{
     "components":[
-      "Fabric"
+      "fabric"
     ],
     "count":"1",
-    "name":"Pouch",
-    "tool":"Tailor's tools",
+    "name":"pouch",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Pressure pad":{
+  "pressure pad":{
     "components":[
-      "Polymer plate",
-      "Polymer plate",
-      "Timing chip",
-      "Control chip",
-      "Wire"
+      "polymer plate",
+      "polymer plate",
+      "timing chip",
+      "control chip",
+      "wire"
     ],
     "count":"1",
-    "name":"Pressure pad",
-    "tool":"Electronics kit",
+    "name":"pressure pad",
+    "tool":"electronics kit",
     "weight":""
   },
-  "RAM stick":{
+  "ram stick":{
     "components":[
-      "PCB",
-      "Memory chip",
-      "Memory chip",
-      "Memory chip",
-      "Memory chip"
+      "pcb",
+      "memory chip",
+      "memory chip",
+      "memory chip",
+      "memory chip"
     ],
     "count":"1",
-    "name":"RAM stick",
-    "tool":"Circuitry machine",
+    "name":"ram stick",
+    "tool":"circuitry machine",
     "weight":""
   },
-  "Radio chip":{
+  "radio chip":{
     "components":[
-      "Steel plate",
-      "Polymer plate",
-      "Silicon"
+      "steel plate",
+      "polymer plate",
+      "silicon"
     ],
     "count":"5",
-    "name":"Radio chip",
-    "tool":"Circuitry machine",
+    "name":"radio chip",
+    "tool":"circuitry machine",
     "weight":""
   },
-  "Radio, emergency":{
+  "radio, emergency":{
     "components":[
-      "Antenna",
-      "Radio chip",
-      "Lithium-ion battery"
+      "antenna",
+      "radio chip",
+      "lithium-ion battery"
     ],
     "count":"1",
-    "name":"Radio, emergency",
-    "tool":"Electronics kit",
+    "name":"radio, emergency",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Radio, military":{
+  "radio, military":{
     "components":[
-      "GPS radio assembly",
-      "Radio, emergency",
+      "gps radio assembly",
+      "radio, emergency",
       "4-cell pack"
     ],
     "count":"1",
-    "name":"Radio, military",
-    "tool":"Electronics kit",
+    "name":"radio, military",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Radio, short-range":{
+  "radio, short-range":{
     "components":[
-      "Antenna",
-      "Radio chip",
-      "Lithium-ion battery",
-      "Lithium-ion battery"
+      "antenna",
+      "radio chip",
+      "lithium-ion battery",
+      "lithium-ion battery"
     ],
     "count":"1",
-    "name":"Radio, short-range",
-    "tool":"Electronics kit",
+    "name":"radio, short-range",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Revolver cylinder":{
+  "revolver cylinder":{
     "components":[
-      "Steel rod",
-      "Steel screw"
+      "steel rod",
+      "steel screw"
     ],
     "count":"",
-    "name":"Revolver cylinder",
-    "tool":"Lathe",
+    "name":"revolver cylinder",
+    "tool":"lathe",
     "weight":""
   },
-  "Revolver, automatic":{
+  "revolver, automatic":{
     "components":[
-      "Steel revolver frame",
-      "Steelrel",
-      "Revolver cylinder",
-      "Pistol gas system",
-      "Firearm hammer"
+      "steel revolver frame",
+      "steelrel",
+      "revolver cylinder",
+      "pistol gas system",
+      "firearm hammer"
     ],
     "count":"",
-    "name":"Revolver, automatic",
-    "tool":"Gunsmith's tools",
+    "name":"revolver, automatic",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Revolver, pocket":{
+  "revolver, pocket":{
     "components":[
-      "Aluminium revolver frame",
-      "Steelrel",
-      "Revolver cylinder",
-      "Firearm hammer"
+      "aluminium revolver frame",
+      "steelrel",
+      "revolver cylinder",
+      "firearm hammer"
     ],
     "count":"",
-    "name":"Revolver, pocket",
-    "tool":"Gunsmith's tools",
+    "name":"revolver, pocket",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Rifle ammo, heavy":{
+  "rifle ammo, heavy":{
     "components":[
-      "Gunpowder",
-      "Rifle casing",
-      "Lead",
-      "Copper"
+      "gunpowder",
+      "rifle casing",
+      "lead",
+      "copper"
     ],
     "count":"20",
-    "name":"Rifle ammo, heavy",
-    "tool":"Reloading set",
+    "name":"rifle ammo, heavy",
+    "tool":"reloading set",
     "weight":"1"
   },
-  "Rifle ammo, light":{
+  "rifle ammo, light":{
     "components":[
-      "Gunpowder",
-      "Rifle casing",
-      "Lead",
-      "Copper"
+      "gunpowder",
+      "rifle casing",
+      "lead",
+      "copper"
     ],
     "count":"20",
-    "name":"Rifle ammo, light",
-    "tool":"Reloading set",
+    "name":"rifle ammo, light",
+    "tool":"reloading set",
     "weight":"0.75"
   },
-  "Rifle casing":{
+  "rifle casing":{
     "components":[
-      "Steel",
-      "Aluminium"
+      "steel",
+      "aluminium"
     ],
     "count":"1",
-    "name":"Rifle casing",
-    "tool":"Microprinting kit",
+    "name":"rifle casing",
+    "tool":"microprinting kit",
     "weight":"0.5"
   },
-  "Rifle drum magazine":{
+  "rifle drum magazine":{
     "components":[
-      "Titanium plate",
-      "Steel tank",
-      "Steel plate",
-      "Steel screw"
+      "titanium plate",
+      "steel tank",
+      "steel plate",
+      "steel screw"
     ],
     "count":"",
-    "name":"Rifle drum magazine",
-    "tool":"Microprinting kit",
+    "name":"rifle drum magazine",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "Rifle gas bolt":{
+  "rifle gas bolt":{
     "components":[
-      "Steel tube",
-      "Steel rod",
-      "Steel spring"
+      "steel tube",
+      "steel rod",
+      "steel spring"
     ],
     "count":"",
-    "name":"Rifle gas bolt",
-    "tool":"Lathe",
+    "name":"rifle gas bolt",
+    "tool":"lathe",
     "weight":""
   },
-  "Rifle trigger pack":{
+  "rifle trigger pack":{
     "components":[
-      "Titanium plate",
-      "Steel spring",
-      "Firearm striker"
+      "titanium plate",
+      "steel spring",
+      "firearm striker"
     ],
     "count":"",
-    "name":"Rifle trigger pack",
-    "tool":"Gunsmith's tools",
+    "name":"rifle trigger pack",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Rifle, Kalashnikov":{
+  "rifle, kalashnikov":{
     "components":[
-      "Light rifle receiver",
-      "Rifle trigger pack",
-      "Steelrel",
-      "Rifle gas bolt",
-      "Light rifle magazine"
+      "light rifle receiver",
+      "rifle trigger pack",
+      "steelrel",
+      "rifle gas bolt",
+      "light rifle magazine"
     ],
     "count":"",
-    "name":"Rifle, Kalashnikov",
-    "tool":"Gunsmith's tools",
+    "name":"rifle, kalashnikov",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Rifle, assault":{
+  "rifle, assault":{
     "components":[
-      "Light rifle receiver",
-      "Rifle trigger pack",
-      "Steelrel",
-      "Rifle gas bolt",
-      "Light rifle magazine"
+      "light rifle receiver",
+      "rifle trigger pack",
+      "steelrel",
+      "rifle gas bolt",
+      "light rifle magazine"
     ],
     "count":"",
-    "name":"Rifle, assault",
-    "tool":"Gunsmith's tools",
+    "name":"rifle, assault",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Rifle, battle":{
+  "rifle, battle":{
     "components":[
-      "Heavy rifle receiver",
-      "Rifle trigger pack",
-      "Titanium barrel",
-      "Rifle gas bolt",
-      "Light rifle magazine"
+      "heavy rifle receiver",
+      "rifle trigger pack",
+      "titanium barrel",
+      "rifle gas bolt",
+      "light rifle magazine"
     ],
     "count":"",
-    "name":"Rifle, battle",
-    "tool":"Gunsmith's tools",
+    "name":"rifle, battle",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Rifle, bolt-action":{
+  "rifle, bolt-action":{
     "components":[
-      "Heavy rifle receiver",
-      "Rifle trigger pack",
-      "Steelrel",
-      "Rifle manual bolt",
-      "Heavy rifle magazine"
+      "heavy rifle receiver",
+      "rifle trigger pack",
+      "steelrel",
+      "rifle manual bolt",
+      "heavy rifle magazine"
     ],
     "count":"",
-    "name":"Rifle, bolt-action",
-    "tool":"Gunsmith's tools",
+    "name":"rifle, bolt-action",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Rifle, dart":{
+  "rifle, dart":{
     "components":[
-      "Light rifle receiver",
-      "Rifle trigger pack",
-      "Aluminium barrel",
-      "Rifle gas bolt",
-      "Light rifle magazine"
+      "light rifle receiver",
+      "rifle trigger pack",
+      "aluminium barrel",
+      "rifle gas bolt",
+      "light rifle magazine"
     ],
     "count":"",
-    "name":"Rifle, dart",
-    "tool":"Gunsmith's tools",
+    "name":"rifle, dart",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Rifle, riot":{
+  "rifle, riot":{
     "components":[
-      "Light rifle receiver",
-      "Rifle trigger pack",
-      "Aluminium barrel",
-      "Rifle gas bolt",
-      "Light rifle magazine"
+      "light rifle receiver",
+      "rifle trigger pack",
+      "aluminium barrel",
+      "rifle gas bolt",
+      "light rifle magazine"
     ],
     "count":"",
-    "name":"Rifle, riot",
-    "tool":"Gunsmith's tools",
+    "name":"rifle, riot",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Rifle, service":{
+  "rifle, service":{
     "components":[
-      "Light rifle receiver",
-      "Rifle trigger pack",
-      "Titanium barrel",
-      "Rifle gas bolt",
-      "Light rifle magazine"
+      "light rifle receiver",
+      "rifle trigger pack",
+      "titanium barrel",
+      "rifle gas bolt",
+      "light rifle magazine"
     ],
     "count":"",
-    "name":"Rifle, service",
-    "tool":"Gunsmith's tools",
+    "name":"rifle, service",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Rocket launch tube":{
+  "rocket launch tube":{
     "components":[
-      "Steel tube",
-      "Steel tube",
-      "Steel rod",
-      "Steel screw"
+      "steel tube",
+      "steel tube",
+      "steel rod",
+      "steel screw"
     ],
     "count":"",
-    "name":"Rocket launch tube",
-    "tool":"Welder's tools",
+    "name":"rocket launch tube",
+    "tool":"welder's tools",
     "weight":""
   },
-  "Rocket multilaunch tube":{
+  "rocket multilaunch tube":{
     "components":[
-      "Rocket launch tube",
-      "Rocket launch tube",
-      "Rocket launch tube",
-      "Rocket launch tube",
-      "Titanium rod"
+      "rocket launch tube",
+      "rocket launch tube",
+      "rocket launch tube",
+      "rocket launch tube",
+      "titanium rod"
     ],
     "count":"",
-    "name":"Rocket multilaunch tube",
-    "tool":"Welder's tools",
+    "name":"rocket multilaunch tube",
+    "tool":"welder's tools",
     "weight":""
   },
-  "Rocket stabilizer assembly":{
+  "rocket stabilizer assembly":{
     "components":[
-      "Titanium plate",
-      "Titanium plate",
-      "Control chip",
-      "Steel screw"
+      "titanium plate",
+      "titanium plate",
+      "control chip",
+      "steel screw"
     ],
     "count":"",
-    "name":"Rocket stabilizer assembly",
-    "tool":"Welder's tools",
+    "name":"rocket stabilizer assembly",
+    "tool":"welder's tools",
     "weight":""
   },
-  "Rotor, electric":{
+  "rotor, electric":{
     "components":[
-      "Motor",
-      "Polymer plate",
-      "PCB",
-      "Control chip"
+      "motor",
+      "polymer plate",
+      "pcb",
+      "control chip"
     ],
     "count":"1",
-    "name":"Rotor, electric",
-    "tool":"Electronics kit",
+    "name":"rotor, electric",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Rotor, hydrocarbon":{
+  "rotor, hydrocarbon":{
     "components":[
-      "Steel",
-      "Steel rod",
-      "Steel rod",
-      "Steel screw",
-      "Steel screw"
+      "steel",
+      "steel rod",
+      "steel rod",
+      "steel screw",
+      "steel screw"
     ],
     "count":"1",
-    "name":"Rotor, hydrocarbon",
-    "tool":"Microprinting kit",
+    "name":"rotor, hydrocarbon",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "Rubber":{
+  "rubber":{
     "components":[],
     "count":"1",
-    "name":"Rubber",
-    "tool":"N/A",
+    "name":"rubber",
+    "tool":"n/a",
     "weight":"1"
   },
-  "SMG":{
+  "smg":{
     "components":[
-      "SMG receiver",
-      "SMG trigger pack",
-      "SMG bolt",
-      "Steelrel",
-      "SMG magazine"
+      "smg receiver",
+      "smg trigger pack",
+      "smg bolt",
+      "steelrel",
+      "smg magazine"
     ],
     "count":"",
-    "name":"SMG",
-    "tool":"Gunsmith's tools",
+    "name":"smg",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "SMG bolt":{
+  "smg bolt":{
     "components":[
-      "Steel tube",
-      "Steel rod",
-      "Steel spring"
+      "steel tube",
+      "steel rod",
+      "steel spring"
     ],
     "count":"",
-    "name":"SMG bolt",
-    "tool":"Gunsmith's tools",
+    "name":"smg bolt",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "SMG magazine":{
+  "smg magazine":{
     "components":[
-      "Polymer plate",
-      "Steel spring",
-      "Steel screw"
+      "polymer plate",
+      "steel spring",
+      "steel screw"
     ],
     "count":"",
-    "name":"SMG magazine",
-    "tool":"Microprinting kit",
+    "name":"smg magazine",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "SMG receiver":{
+  "smg receiver":{
     "components":[
-      "Steel plate",
-      "Steel plate",
-      "Steel screw"
+      "steel plate",
+      "steel plate",
+      "steel screw"
     ],
     "count":"",
-    "name":"SMG receiver",
-    "tool":"Microprinting kit",
+    "name":"smg receiver",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "SMG trigger pack":{
+  "smg trigger pack":{
     "components":[
-      "Steel plate",
-      "Steel spring",
-      "Firearm striker"
+      "steel plate",
+      "steel spring",
+      "firearm striker"
     ],
     "count":"",
-    "name":"SMG trigger pack",
-    "tool":"Gunsmith's tools",
+    "name":"smg trigger pack",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "SMG, compact":{
+  "smg, compact":{
     "components":[
-      "Machine pistol receiver",
-      "SMG trigger pack",
-      "PDW bolt",
-      "Steelrel",
-      "SMG magazine"
+      "machine pistol receiver",
+      "smg trigger pack",
+      "pdw bolt",
+      "steelrel",
+      "smg magazine"
     ],
     "count":"",
-    "name":"SMG, compact",
-    "tool":"Gunsmith's tools",
+    "name":"smg, compact",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "SMG, personal defense":{
+  "smg, personal defense":{
     "components":[
-      "PDW receiver",
-      "PDW trigger pack",
-      "PDW bolt",
-      "Titanium barrel",
-      "PDW magazine"
+      "pdw receiver",
+      "pdw trigger pack",
+      "pdw bolt",
+      "titanium barrel",
+      "pdw magazine"
     ],
     "count":"",
-    "name":"SMG, personal defense",
-    "tool":"Gunsmith's tools",
+    "name":"smg, personal defense",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Scope":{
+  "scope":{
     "components":[
-      "Steel tube",
-      "Glass lens",
-      "Glass lens",
-      "Glass lens"
+      "steel tube",
+      "glass lens",
+      "glass lens",
+      "glass lens"
     ],
     "count":"",
-    "name":"Scope",
-    "tool":"Gunsmith's tools",
+    "name":"scope",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Servo":{
+  "servo":{
     "components":[
-      "Motor",
-      "Polymer plate",
-      "Control chip"
+      "motor",
+      "polymer plate",
+      "control chip"
     ],
     "count":"1",
-    "name":"Servo",
-    "tool":"Microprinting kit",
+    "name":"servo",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "Shotgun breacher":{
+  "shotgun breacher":{
     "components":[
-      "Gunpowder",
-      "Shotgun hull",
-      "Steel ball bearings",
-      "Copper ball bearings"
+      "gunpowder",
+      "shotgun hull",
+      "steel ball bearings",
+      "copper ball bearings"
     ],
     "count":"20",
-    "name":"Shotgun breacher",
-    "tool":"Reloading set",
+    "name":"shotgun breacher",
+    "tool":"reloading set",
     "weight":"2"
   },
-  "Shotgun buckshot":{
+  "shotgun buckshot":{
     "components":[
-      "Gunpowder",
-      "Shotgun hull",
-      "Lead shot"
+      "gunpowder",
+      "shotgun hull",
+      "lead shot"
     ],
     "count":"20",
-    "name":"Shotgun buckshot",
-    "tool":"Reloading set",
+    "name":"shotgun buckshot",
+    "tool":"reloading set",
     "weight":"2"
   },
-  "Shotgun drum magazine":{
+  "shotgun drum magazine":{
     "components":[
-      "Titanium plate",
-      "Titanium tank",
-      "Titanium plate",
-      "Steel screw",
-      "Steel screw"
+      "titanium plate",
+      "titanium tank",
+      "titanium plate",
+      "steel screw",
+      "steel screw"
     ],
     "count":"",
-    "name":"Shotgun drum magazine",
-    "tool":"Microprinting kit",
+    "name":"shotgun drum magazine",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "Shotgun firecracker":{
+  "shotgun firecracker":{
     "components":[
-      "Gunpowder",
-      "Shotgun hull",
-      "Aluminium",
-      "Hydrocarbon"
+      "gunpowder",
+      "shotgun hull",
+      "aluminium",
+      "hydrocarbon"
     ],
     "count":"20",
-    "name":"Shotgun firecracker",
-    "tool":"Reloading set",
+    "name":"shotgun firecracker",
+    "tool":"reloading set",
     "weight":"2"
   },
-  "Shotgun gas system":{
+  "shotgun gas system":{
     "components":[
-      "Steel tube",
-      "Titanium rod",
-      "Steel spring",
-      "Steel spring"
+      "steel tube",
+      "titanium rod",
+      "steel spring",
+      "steel spring"
     ],
     "count":"",
-    "name":"Shotgun gas system",
-    "tool":"Lathe",
+    "name":"shotgun gas system",
+    "tool":"lathe",
     "weight":""
   },
-  "Shotgun hull":{
+  "shotgun hull":{
     "components":[
-      "Polymer",
-      "Steel"
+      "polymer",
+      "steel"
     ],
     "count":"1",
-    "name":"Shotgun hull",
-    "tool":"Microprinting kit",
+    "name":"shotgun hull",
+    "tool":"microprinting kit",
     "weight":"0.5"
   },
-  "Shotgun pump":{
+  "shotgun pump":{
     "components":[
-      "Polymer plate",
-      "Steel rod"
+      "polymer plate",
+      "steel rod"
     ],
     "count":"",
-    "name":"Shotgun pump",
-    "tool":"Gunsmith's tools",
+    "name":"shotgun pump",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Shotgun slug":{
+  "shotgun slug":{
     "components":[
-      "Gunpowder",
-      "Shotgun hull",
-      "Lead",
-      "Steel"
+      "gunpowder",
+      "shotgun hull",
+      "lead",
+      "steel"
     ],
     "count":"20",
-    "name":"Shotgun slug",
-    "tool":"Reloading set",
+    "name":"shotgun slug",
+    "tool":"reloading set",
     "weight":"2"
   },
-  "Shotgun trigger pack":{
+  "shotgun trigger pack":{
     "components":[
-      "Steel plate",
-      "Steel spring",
-      "Firearm hammer"
+      "steel plate",
+      "steel spring",
+      "firearm hammer"
     ],
     "count":"",
-    "name":"Shotgun trigger pack",
-    "tool":"Gunsmith's tools",
+    "name":"shotgun trigger pack",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Shotgun tube magazine":{
+  "shotgun tube magazine":{
     "components":[
-      "Steel tube",
-      "Steel spring"
+      "steel tube",
+      "steel spring"
     ],
     "count":"",
-    "name":"Shotgun tube magazine",
-    "tool":"Microprinting kit",
+    "name":"shotgun tube magazine",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "Shotgun, automatic":{
+  "shotgun, automatic":{
     "components":[
-      "Heavy shotgun receiver",
-      "Shotgun trigger pack",
-      "Shotgun gas system",
-      "Shotgun drum magazine"
+      "heavy shotgun receiver",
+      "shotgun trigger pack",
+      "shotgun gas system",
+      "shotgun drum magazine"
     ],
     "count":"",
-    "name":"Shotgun, automatic",
-    "tool":"Gunsmith's tools",
+    "name":"shotgun, automatic",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Shotgun, breaching":{
+  "shotgun, breaching":{
     "components":[
-      "Heavy shotgun receiver",
-      "Shotgun trigger pack",
-      "Shotgun pump",
-      "Shotgun tube magazine"
+      "heavy shotgun receiver",
+      "shotgun trigger pack",
+      "shotgun pump",
+      "shotgun tube magazine"
     ],
     "count":"",
-    "name":"Shotgun, breaching",
-    "tool":"Gunsmith's tools",
+    "name":"shotgun, breaching",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Shotgun, break-action":{
+  "shotgun, break-action":{
     "components":[
-      "Shotgun trigger pack",
-      "Firearm hammer",
-      "Steelrel"
+      "shotgun trigger pack",
+      "firearm hammer",
+      "steelrel"
     ],
     "count":"",
-    "name":"Shotgun, break-action",
-    "tool":"Gunsmith's tools",
+    "name":"shotgun, break-action",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Shotgun, combat":{
+  "shotgun, combat":{
     "components":[
-      "Standard shotgun receiver",
-      "Shotgun trigger pack",
-      "Shotgun gas system",
-      "Shotgun tube magazine"
+      "standard shotgun receiver",
+      "shotgun trigger pack",
+      "shotgun gas system",
+      "shotgun tube magazine"
     ],
     "count":"",
-    "name":"Shotgun, combat",
-    "tool":"Gunsmith's tools",
+    "name":"shotgun, combat",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Shotgun, pump-action":{
+  "shotgun, pump-action":{
     "components":[
-      "Standard shotgun receiver",
-      "Shotgun trigger pack",
-      "Shotgun pump",
-      "Shotgun tube magazine"
+      "standard shotgun receiver",
+      "shotgun trigger pack",
+      "shotgun pump",
+      "shotgun tube magazine"
     ],
     "count":"",
-    "name":"Shotgun, pump-action",
-    "tool":"Gunsmith's tools",
+    "name":"shotgun, pump-action",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Silicon":{
+  "silicon":{
     "components":[],
     "count":"1",
-    "name":"Silicon",
-    "tool":"N/A",
+    "name":"silicon",
+    "tool":"n/a",
     "weight":"1"
   },
-  "Silicone":{
+  "silicone":{
     "components":[
-      "Polymer",
-      "Silicon"
+      "polymer",
+      "silicon"
     ],
     "count":"1",
-    "name":"Silicone",
-    "tool":"Chemist's supplies",
+    "name":"silicone",
+    "tool":"chemist's supplies",
     "weight":""
   },
-  "Smartphone subassembly":{
+  "smartphone subassembly":{
     "components":[
-      "LCD screen",
-      "GPS radio assembly",
-      "Camera assembly",
-      "PCB",
-      "CPU"
+      "lcd screen",
+      "gps radio assembly",
+      "camera assembly",
+      "pcb",
+      "cpu"
     ],
     "count":"1",
-    "name":"Smartphone subassembly",
-    "tool":"Electronics kit",
+    "name":"smartphone subassembly",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Smartphone, basic":{
+  "smartphone, basic":{
     "components":[
-      "Smartphone subassembly",
-      "Lithium-ion battery"
+      "smartphone subassembly",
+      "lithium-ion battery"
     ],
     "count":"1",
-    "name":"Smartphone, basic",
-    "tool":"Electronics kit",
+    "name":"smartphone, basic",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Smartphone, deluxe":{
+  "smartphone, deluxe":{
     "components":[
-      "Smartphone subassembly",
-      "Geiger-Muller tube",
-      "Camera assembly",
-      "Gold"
+      "smartphone subassembly",
+      "geiger-muller tube",
+      "camera assembly",
+      "gold"
     ],
     "count":"1",
-    "name":"Smartphone, deluxe",
-    "tool":"Electronics kit",
+    "name":"smartphone, deluxe",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Sneaking suit":{
+  "sneaking suit":{
     "components":[
-      "Voidsuit, basic",
-      "Aramid gel",
-      "Infopad assembly",
-      "Memstick"
+      "voidsuit, basic",
+      "aramid gel",
+      "infopad assembly",
+      "memstick"
     ],
     "count":"1",
-    "name":"Sneaking suit",
-    "tool":"Tailor's tools",
+    "name":"sneaking suit",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Sniper rifle":{
+  "sniper rifle":{
     "components":[
-      "Sniper rifle receiver",
-      "Match trigger pack",
-      "Sniper rifle gas bolt",
-      "Heavy rifle magazine",
-      "Titanium barrel"
+      "sniper rifle receiver",
+      "match trigger pack",
+      "sniper rifle gas bolt",
+      "heavy rifle magazine",
+      "titanium barrel"
     ],
     "count":"",
-    "name":"Sniper rifle",
-    "tool":"Gunsmith's tools",
+    "name":"sniper rifle",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Sniper rifle gas bolt":{
+  "sniper rifle gas bolt":{
     "components":[
-      "Tungsten rod",
-      "Tungsten rod",
-      "Tungsten tube",
-      "Steel spring"
+      "tungsten rod",
+      "tungsten rod",
+      "tungsten tube",
+      "steel spring"
     ],
     "count":"",
-    "name":"Sniper rifle gas bolt",
-    "tool":"Lathe",
+    "name":"sniper rifle gas bolt",
+    "tool":"lathe",
     "weight":""
   },
-  "Sniper rifle receiver":{
+  "sniper rifle receiver":{
     "components":[
-      "Steel plate",
-      "Titanium plate",
-      "Tungsten rod"
+      "steel plate",
+      "titanium plate",
+      "tungsten rod"
     ],
     "count":"",
-    "name":"Sniper rifle receiver",
-    "tool":"Microprinting kit",
+    "name":"sniper rifle receiver",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "Sniper rifle, anti-hull":{
+  "sniper rifle, anti-hull":{
     "components":[
-      "BMG receiver",
-      "Match trigger pack",
-      "Sniper rifle gas bolt",
-      "Tungsten barrel",
-      "BMG magazine"
+      "bmg receiver",
+      "match trigger pack",
+      "sniper rifle gas bolt",
+      "tungsten barrel",
+      "bmg magazine"
     ],
     "count":"",
-    "name":"Sniper rifle, anti-hull",
-    "tool":"Gunsmith's tools",
+    "name":"sniper rifle, anti-hull",
+    "tool":"gunsmith's tools",
     "weight":""
   },
-  "Snow boots":{
+  "snow boots":{
     "components":[
-      "Leather",
-      "Leather",
-      "Insulation"
+      "leather",
+      "leather",
+      "insulation"
     ],
     "count":"1",
-    "name":"Snow boots",
-    "tool":"Tailor's tools",
+    "name":"snow boots",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Solar cell":{
+  "solar cell":{
     "components":[
-      "Silicon",
-      "Glass",
-      "Copper plate"
+      "silicon",
+      "glass",
+      "copper plate"
     ],
     "count":"3",
-    "name":"Solar cell",
-    "tool":"Circuitry machine",
+    "name":"solar cell",
+    "tool":"circuitry machine",
     "weight":"1"
   },
-  "Solar panel, folding":{
+  "solar panel, folding":{
     "components":[
-      "Solar cell",
-      "Solar cell",
-      "Solar cell",
-      "Solar cell",
-      "Wire"
+      "solar cell",
+      "solar cell",
+      "solar cell",
+      "solar cell",
+      "wire"
     ],
     "count":"1",
-    "name":"Solar panel, folding",
-    "tool":"Electronics kit",
+    "name":"solar panel, folding",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Standard pistol magazine":{
+  "standard pistol magazine":{
     "components":[
-      "Polymer plate",
-      "Steel spring"
+      "polymer plate",
+      "steel spring"
     ],
     "count":"",
-    "name":"Standard pistol magazine",
-    "tool":"Microprinting kit",
+    "name":"standard pistol magazine",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "Standard shotgun receiver":{
+  "standard shotgun receiver":{
     "components":[
-      "Steel plate",
-      "Steel tube"
+      "steel plate",
+      "steel tube"
     ],
     "count":"",
-    "name":"Standard shotgun receiver",
-    "tool":"Microprinting kit",
+    "name":"standard shotgun receiver",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "Steel":{
+  "steel":{
     "components":[],
     "count":"1",
-    "name":"Steel",
-    "tool":"N/A",
+    "name":"steel",
+    "tool":"n/a",
     "weight":"1"
   },
-  "Steel ball bearings":{
+  "steel ball bearings":{
     "components":[
-      "Steel rod"
+      "steel rod"
     ],
     "count":"20",
-    "name":"Steel ball bearings",
-    "tool":"Lathe",
+    "name":"steel ball bearings",
+    "tool":"lathe",
     "weight":"1"
   },
-  "Steel bearing":{
+  "steel bearing":{
     "components":[
-      "Steel ball bearings",
-      "Steel ball bearings",
-      "Steel ball bearings",
-      "Steel ball bearings",
-      "Steel tube"
+      "steel ball bearings",
+      "steel ball bearings",
+      "steel ball bearings",
+      "steel ball bearings",
+      "steel tube"
     ],
     "count":"10",
-    "name":"Steel bearing",
-    "tool":"Lathe",
+    "name":"steel bearing",
+    "tool":"lathe",
     "weight":""
   },
-  "Steel pistol frame":{
+  "steel pistol frame":{
     "components":[
-      "Steel plate",
-      "Steel plate"
+      "steel plate",
+      "steel plate"
     ],
     "count":"",
-    "name":"Steel pistol frame",
-    "tool":"Microprinting kit",
+    "name":"steel pistol frame",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "Steel plate":{
+  "steel plate":{
     "components":[
-      "Steel"
+      "steel"
     ],
     "count":"1",
-    "name":"Steel plate",
-    "tool":"Rolling machine",
+    "name":"steel plate",
+    "tool":"rolling machine",
     "weight":"1"
   },
-  "Steel revolver frame":{
+  "steel revolver frame":{
     "components":[
-      "Steel plate",
-      "Steel spring"
+      "steel plate",
+      "steel spring"
     ],
     "count":"",
-    "name":"Steel revolver frame",
-    "tool":"Microprinting kit",
+    "name":"steel revolver frame",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "Steel rod":{
+  "steel rod":{
     "components":[
-      "Steel"
+      "steel"
     ],
     "count":"1",
-    "name":"Steel rod",
-    "tool":"Lathe",
+    "name":"steel rod",
+    "tool":"lathe",
     "weight":"1"
   },
-  "Steel screw":{
+  "steel screw":{
     "components":[
-      "Steel"
+      "steel"
     ],
     "count":"10",
-    "name":"Steel screw",
-    "tool":"Lathe",
+    "name":"steel screw",
+    "tool":"lathe",
     "weight":"1"
   },
-  "Steel slide":{
+  "steel slide":{
     "components":[
-      "Steel plate"
+      "steel plate"
     ],
     "count":"",
-    "name":"Steel slide",
-    "tool":"Microprinting kit",
+    "name":"steel slide",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "Steel spring":{
+  "steel spring":{
     "components":[
-      "Steel"
+      "steel"
     ],
     "count":"10",
-    "name":"Steel spring",
-    "tool":"Lathe",
+    "name":"steel spring",
+    "tool":"lathe",
     "weight":"1"
   },
-  "Steel tank":{
+  "steel tank":{
     "components":[
-      "Steel tube",
-      "Steel plate",
-      "Steel plate"
+      "steel tube",
+      "steel plate",
+      "steel plate"
     ],
     "count":"1",
-    "name":"Steel tank",
-    "tool":"Welder's tools",
+    "name":"steel tank",
+    "tool":"welder's tools",
     "weight":"3"
   },
-  "Steel tube":{
+  "steel tube":{
     "components":[
-      "Steel"
+      "steel"
     ],
     "count":"1",
-    "name":"Steel tube",
-    "tool":"Lathe",
+    "name":"steel tube",
+    "tool":"lathe",
     "weight":"1"
   },
-  "Steelrel":{
+  "steelrel":{
     "components":[
-      "Steel tube"
+      "steel tube"
     ],
     "count":"",
-    "name":"Steelrel",
-    "tool":"Lathe",
+    "name":"steelrel",
+    "tool":"lathe",
     "weight":""
   },
-  "Synth power pack, high-capacity":{
+  "synth power pack, high-capacity":{
     "components":[
-      "Synth power pack, standard",
-      "Synth power pack, standard",
+      "synth power pack, standard",
+      "synth power pack, standard",
       "6-cell pack",
       "6-cell pack"
     ],
     "count":"1",
-    "name":"Synth power pack, high-capacity",
-    "tool":"Microprinter",
+    "name":"synth power pack, high-capacity",
+    "tool":"microprinter",
     "weight":""
   },
-  "Synth power pack, standard":{
+  "synth power pack, standard":{
     "components":[
       "6-cell pack",
       "6-cell pack",
@@ -3338,410 +3338,410 @@
       "6-cell pack"
     ],
     "count":"1",
-    "name":"Synth power pack, standard",
-    "tool":"Microprinter",
+    "name":"synth power pack, standard",
+    "tool":"microprinter",
     "weight":""
   },
-  "Syringe":{
+  "syringe":{
     "components":[
-      "Polymer rod",
-      "Polymer tube"
+      "polymer rod",
+      "polymer tube"
     ],
     "count":"1",
-    "name":"Syringe",
-    "tool":"Microprinting kit",
+    "name":"syringe",
+    "tool":"microprinting kit",
     "weight":"1"
   },
-  "Tablet assembly":{
+  "tablet assembly":{
     "components":[
-      "GPS radio assembly",
-      "LCD screen",
-      "Camera assembly",
-      "CPU",
-      "RAM stick"
+      "gps radio assembly",
+      "lcd screen",
+      "camera assembly",
+      "cpu",
+      "ram stick"
     ],
     "count":"1",
-    "name":"Tablet assembly",
-    "tool":"Electronics kit",
+    "name":"tablet assembly",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Tablet, basic":{
+  "tablet, basic":{
     "components":[
-      "Tablet assembly",
-      "Lithium-ion battery",
-      "Polymer plate"
+      "tablet assembly",
+      "lithium-ion battery",
+      "polymer plate"
     ],
     "count":"1",
-    "name":"Tablet, basic",
-    "tool":"Electronics kit",
+    "name":"tablet, basic",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Tablet, tactical":{
+  "tablet, tactical":{
     "components":[
-      "Tablet, basic",
-      "Camera assembly",
-      "LED",
-      "CPU",
-      "RAM stick"
+      "tablet, basic",
+      "camera assembly",
+      "led",
+      "cpu",
+      "ram stick"
     ],
     "count":"1",
-    "name":"Tablet, tactical",
-    "tool":"Electronics kit",
+    "name":"tablet, tactical",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Tent, large":{
+  "tent, large":{
     "components":[
-      "Tent, medium",
-      "Tent, medium",
-      "Fabric",
-      "Fabric",
-      "Fabric"
+      "tent, medium",
+      "tent, medium",
+      "fabric",
+      "fabric",
+      "fabric"
     ],
     "count":"1",
-    "name":"Tent, large",
-    "tool":"Tailor's tools",
+    "name":"tent, large",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Tent, medium":{
+  "tent, medium":{
     "components":[
-      "Fabric",
-      "Fabric",
-      "Fabric",
-      "Steel",
-      "Steel"
+      "fabric",
+      "fabric",
+      "fabric",
+      "steel",
+      "steel"
     ],
     "count":"1",
-    "name":"Tent, medium",
-    "tool":"Tailor's tools",
+    "name":"tent, medium",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Tent, pavilion":{
+  "tent, pavilion":{
     "components":[
-      "Tent, large",
-      "Tent, large",
-      "Tent, large",
-      "Tent, large",
-      "Steel plate"
+      "tent, large",
+      "tent, large",
+      "tent, large",
+      "tent, large",
+      "steel plate"
     ],
     "count":"1",
-    "name":"Tent, pavilion",
-    "tool":"Tailor's tools",
+    "name":"tent, pavilion",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Tent, small":{
+  "tent, small":{
     "components":[
-      "Fabric",
-      "Fabric",
-      "Steel"
+      "fabric",
+      "fabric",
+      "steel"
     ],
     "count":"1",
-    "name":"Tent, small",
-    "tool":"Tailor's tools",
+    "name":"tent, small",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Timing chip":{
+  "timing chip":{
     "components":[
-      "Steel plate",
-      "Polymer plate",
-      "Silicon"
+      "steel plate",
+      "polymer plate",
+      "silicon"
     ],
     "count":"5",
-    "name":"Timing chip",
-    "tool":"Circuitry machine",
+    "name":"timing chip",
+    "tool":"circuitry machine",
     "weight":""
   },
-  "Titanium":{
+  "titanium":{
     "components":[],
     "count":"1",
-    "name":"Titanium",
-    "tool":"N/A",
+    "name":"titanium",
+    "tool":"n/a",
     "weight":"1"
   },
-  "Titanium barrel":{
+  "titanium barrel":{
     "components":[
-      "Titanium tube"
+      "titanium tube"
     ],
     "count":"",
-    "name":"Titanium barrel",
-    "tool":"Lathe",
+    "name":"titanium barrel",
+    "tool":"lathe",
     "weight":""
   },
-  "Titanium pistol frame":{
+  "titanium pistol frame":{
     "components":[
-      "Titanium plate",
-      "Titanium plate"
+      "titanium plate",
+      "titanium plate"
     ],
     "count":"",
-    "name":"Titanium pistol frame",
-    "tool":"Microprinting kit",
+    "name":"titanium pistol frame",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "Titanium plate":{
+  "titanium plate":{
     "components":[
-      "Titanium"
+      "titanium"
     ],
     "count":"1",
-    "name":"Titanium plate",
-    "tool":"Rolling machine",
+    "name":"titanium plate",
+    "tool":"rolling machine",
     "weight":""
   },
-  "Titanium rod":{
+  "titanium rod":{
     "components":[
-      "Titanium"
+      "titanium"
     ],
     "count":"1",
-    "name":"Titanium rod",
-    "tool":"Lathe",
+    "name":"titanium rod",
+    "tool":"lathe",
     "weight":""
   },
-  "Titanium slide":{
+  "titanium slide":{
     "components":[
-      "Titanium plate"
+      "titanium plate"
     ],
     "count":"",
-    "name":"Titanium slide",
-    "tool":"Microprinting kit",
+    "name":"titanium slide",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "Titanium tank":{
+  "titanium tank":{
     "components":[
-      "Titanium tube",
-      "Titanium plate",
-      "Titanium plate"
+      "titanium tube",
+      "titanium plate",
+      "titanium plate"
     ],
     "count":"1",
-    "name":"Titanium tank",
-    "tool":"Welder's tools",
+    "name":"titanium tank",
+    "tool":"welder's tools",
     "weight":"5"
   },
-  "Titanium tube":{
+  "titanium tube":{
     "components":[
-      "Titanium"
+      "titanium"
     ],
     "count":"1",
-    "name":"Titanium tube",
-    "tool":"Lathe",
+    "name":"titanium tube",
+    "tool":"lathe",
     "weight":""
   },
-  "Tourniquet":{
+  "tourniquet":{
     "components":[
-      "Polymer rod",
-      "Fabric"
+      "polymer rod",
+      "fabric"
     ],
     "count":"1",
-    "name":"Tourniquet",
-    "tool":"Microprinting kit",
+    "name":"tourniquet",
+    "tool":"microprinting kit",
     "weight":"1"
   },
-  "Tricorder, basic":{
+  "tricorder, basic":{
     "components":[
-      "Micro sensor assembly",
-      "Distance sensor assembly",
+      "micro sensor assembly",
+      "distance sensor assembly",
       "4-cell pack",
-      "Polymer plate"
+      "polymer plate"
     ],
     "count":"1",
-    "name":"Tricorder, basic",
-    "tool":"Electronics kit",
+    "name":"tricorder, basic",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Tricorder, tactical":{
+  "tricorder, tactical":{
     "components":[
-      "Tricorder, basic",
-      "Micro sensor assembly",
-      "Advanced sensor assembly",
+      "tricorder, basic",
+      "micro sensor assembly",
+      "advanced sensor assembly",
       "2-cell pack"
     ],
     "count":"1",
-    "name":"Tricorder, tactical",
-    "tool":"Electronics kit",
+    "name":"tricorder, tactical",
+    "tool":"electronics kit",
     "weight":""
   },
-  "Tub, collapsible, 100 gal.":{
+  "tub, collapsible, 100 gal.":{
     "components":[
-      "Fabric",
-      "Fabric",
-      "Silicone",
-      "Steel",
-      "Steel"
+      "fabric",
+      "fabric",
+      "silicone",
+      "steel",
+      "steel"
     ],
     "count":"1",
-    "name":"Tub, collapsible, 100 gal.",
-    "tool":"Tailor's tools",
+    "name":"tub, collapsible, 100 gal.",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Tub, collapsible, 500 gal.":{
+  "tub, collapsible, 500 gal.":{
     "components":[
-      "Tub, collapsible, 100 gal.",
-      "Tub, collapsible, 100 gal.",
-      "Tub, collapsible, 100 gal.",
-      "Fabric",
-      "Steel"
+      "tub, collapsible, 100 gal.",
+      "tub, collapsible, 100 gal.",
+      "tub, collapsible, 100 gal.",
+      "fabric",
+      "steel"
     ],
     "count":"1",
-    "name":"Tub, collapsible, 500 gal.",
-    "tool":"Tailor's tools",
+    "name":"tub, collapsible, 500 gal.",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Tungsten":{
+  "tungsten":{
     "components":[],
     "count":"1",
-    "name":"Tungsten",
-    "tool":"N/A",
+    "name":"tungsten",
+    "tool":"n/a",
     "weight":"1"
   },
-  "Tungsten barrel":{
+  "tungsten barrel":{
     "components":[
-      "Tungsten tube"
+      "tungsten tube"
     ],
     "count":"",
-    "name":"Tungsten barrel",
-    "tool":"Lathe",
+    "name":"tungsten barrel",
+    "tool":"lathe",
     "weight":""
   },
-  "Tungsten plate":{
+  "tungsten plate":{
     "components":[
-      "Tungsten"
+      "tungsten"
     ],
     "count":"1",
-    "name":"Tungsten plate",
-    "tool":"Rolling machine",
+    "name":"tungsten plate",
+    "tool":"rolling machine",
     "weight":""
   },
-  "Tungsten rod":{
+  "tungsten rod":{
     "components":[
-      "Tungsten"
+      "tungsten"
     ],
     "count":"1",
-    "name":"Tungsten rod",
-    "tool":"Lathe",
+    "name":"tungsten rod",
+    "tool":"lathe",
     "weight":""
   },
-  "Tungsten tank":{
+  "tungsten tank":{
     "components":[
-      "Tungsten tube",
-      "Tungsten plate",
-      "Tungsten plate"
+      "tungsten tube",
+      "tungsten plate",
+      "tungsten plate"
     ],
     "count":"1",
-    "name":"Tungsten tank",
-    "tool":"Welder's tools",
+    "name":"tungsten tank",
+    "tool":"welder's tools",
     "weight":""
   },
-  "Tungsten tube":{
+  "tungsten tube":{
     "components":[
-      "Tungsten rod"
+      "tungsten rod"
     ],
     "count":"1",
-    "name":"Tungsten tube",
-    "tool":"Lathe",
+    "name":"tungsten tube",
+    "tool":"lathe",
     "weight":""
   },
-  "Uranium":{
+  "uranium":{
     "components":[],
     "count":"1",
-    "name":"Uranium",
-    "tool":"N/A",
+    "name":"uranium",
+    "tool":"n/a",
     "weight":"1"
   },
-  "Valve":{
+  "valve":{
     "components":[
-      "Steel plate",
-      "Silicone"
+      "steel plate",
+      "silicone"
     ],
     "count":"1",
-    "name":"Valve",
-    "tool":"Microprinting kit",
+    "name":"valve",
+    "tool":"microprinting kit",
     "weight":""
   },
-  "Voidglass plate":{
+  "voidglass plate":{
     "components":[
-      "Glass",
-      "Plasteel",
-      "Wire"
+      "glass",
+      "plasteel",
+      "wire"
     ],
     "count":"1",
-    "name":"Voidglass plate",
-    "tool":"Rolling machine",
+    "name":"voidglass plate",
+    "tool":"rolling machine",
     "weight":""
   },
-  "Voidsuit, articulated":{
+  "voidsuit, articulated":{
     "components":[
-      "Voidsuit, basic",
-      "Aramid gel",
-      "Aramid plate"
+      "voidsuit, basic",
+      "aramid gel",
+      "aramid plate"
     ],
     "count":"1",
-    "name":"Voidsuit, articulated",
-    "tool":"Tailor's tools",
+    "name":"voidsuit, articulated",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Voidsuit, basic":{
+  "voidsuit, basic":{
     "components":[
-      "Fabric",
-      "Insulation",
-      "Voidglass plate",
-      "Polymer mesh"
+      "fabric",
+      "insulation",
+      "voidglass plate",
+      "polymer mesh"
     ],
     "count":"1",
-    "name":"Voidsuit, basic",
-    "tool":"Tailor's tools",
+    "name":"voidsuit, basic",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Voidsuit, battle":{
+  "voidsuit, battle":{
     "components":[
-      "Voidsuit, hardened",
-      "Aramid plate",
-      "Aramid plate"
+      "voidsuit, hardened",
+      "aramid plate",
+      "aramid plate"
     ],
     "count":"1",
-    "name":"Voidsuit, battle",
-    "tool":"Tailor's tools",
+    "name":"voidsuit, battle",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Voidsuit, hardened":{
+  "voidsuit, hardened":{
     "components":[
-      "Voidsuit, standard",
-      "Aramid gel",
-      "Aramid plate"
+      "voidsuit, standard",
+      "aramid gel",
+      "aramid plate"
     ],
     "count":"1",
-    "name":"Voidsuit, hardened",
-    "tool":"Tailor's tools",
+    "name":"voidsuit, hardened",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Voidsuit, standard":{
+  "voidsuit, standard":{
     "components":[
-      "Voidsuit, basic",
-      "Aramid gel"
+      "voidsuit, basic",
+      "aramid gel"
     ],
     "count":"1",
-    "name":"Voidsuit, standard",
-    "tool":"Tailor's tools",
+    "name":"voidsuit, standard",
+    "tool":"tailor's tools",
     "weight":""
   },
-  "Water":{
+  "water":{
     "components":[],
     "count":"1",
-    "name":"Water",
-    "tool":"N/A",
+    "name":"water",
+    "tool":"n/a",
     "weight":"1"
   },
-  "Wire":{
+  "wire":{
     "components":[
-      "Copper plate",
-      "Polymer"
+      "copper plate",
+      "polymer"
     ],
     "count":"1",
-    "name":"Wire",
-    "tool":"Rolling machine",
+    "name":"wire",
+    "tool":"rolling machine",
     "weight":""
   },
-  "Wood":{
+  "wood":{
     "components":[],
     "count":"1",
-    "name":"Wood",
-    "tool":"N/A",
+    "name":"wood",
+    "tool":"n/a",
     "weight":"1"
   }
 }
